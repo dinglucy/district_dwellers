@@ -1,0 +1,13 @@
+[
+    {
+        "map_name" : "map_ct_nw_weights",
+        "num_precincts" : 766,
+        "num_districts" : 5,
+        "wallclock_calcs" : [
+            73.5,
+            74.08,
+            44.76,
+            10.14
+        ]
+    }
+]
