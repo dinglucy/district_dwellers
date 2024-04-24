@@ -168,15 +168,15 @@ districtStateFile = open("num_dists.csv")
 districtStates = csv.reader(districtStateFile)
 for state, districts in districtStates:
     print("Processing " + state)
-    # try:
-    #     processState("map_" + state + "_cty_weights", int(districts), state, "cty")
-    # except:
-    #     print("Something went wrong processing cty for " + state)
+    try:
+        processState("map_" + state + "_cty_weights", int(districts), state, "cty")
+    except:
+        print("Something went wrong processing cty for " + state)
     try:
         processState("map_" + state + "_d2p_weights", int(districts), state, "d2p")
     except:
         print("Something went wrong processing d2p for " + state)
-    # try:
-    #     processState("map_" + state + "_nw_weights", int(districts), state, "nw")
-    # except:
-    #     print("Something went wrong processing nw for " + state)        
+    try:
+        processState("map_" + state + "_nw_weights", int(districts), state, "nw")
+    except:
+        print("Something went wrong processing nw for " + state)        
