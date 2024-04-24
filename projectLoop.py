@@ -56,7 +56,7 @@ def CutPartition(remainingGraph, targetPop, popDeviation, populations):
 
     print("Sending to solver...")
     Solver_name = 'PULP_CBC_CMD'
-    solver = pulp.getSolver(Solver_name, threads=4)
+    solver = pulp.getSolver(Solver_name, threads=12)
     prog.solve(solver)
 
     toReturn = {}
@@ -172,11 +172,11 @@ for state, districts in districtStates:
         processState("map_" + state + "_cty_weights", int(districts))
     except:
         print("Something went wrong processing cty for " + state)
-    try:
-        processState("map_" + state + "_d2p_weights", int(districts))
-    except:
-        print("Something went wrong processing d2p for " + state)
-    try:
-        processState("map_" + state + "_nw_weights", int(districts))
-    except:
-        print("Something went wrong processing nw for " + state)        
+    # try:
+    #     processState("map_" + state + "_d2p_weights", int(districts))
+    # except:
+    #     print("Something went wrong processing d2p for " + state)
+    # try:
+    #     processState("map_" + state + "_nw_weights", int(districts))
+    # except:
+    #     print("Something went wrong processing nw for " + state)        
