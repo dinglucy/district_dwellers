@@ -3,7 +3,6 @@ import networkx as nx
 import pulp 
 import csv
 import time
-import sys
 
 def CutPartition(remainingGraph, targetPop, popDeviation, populations):
     prog = pulp.LpProblem("CutPartition", pulp.LpMinimize)
@@ -161,4 +160,5 @@ def processState(stateName):
     timeWriter.writerow(['Sum:', sum(runTimes)])
     timeFile.close()
 
-processState('map_ia_nw_weights')
+
+
