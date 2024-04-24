@@ -71,7 +71,7 @@ def CutPartition(remainingGraph, targetPop, popDeviation, populations):
         raise ValueError("District Generated not of Proper Population") 
     return toReturn, time.time()-startTime
 
-def processState(stateName, numDistricts):
+def processState(stateName, numDistricts, stateLabel, mapType):
     dataFile = open("map_data/" + stateName + ".json")
     data = json.load(dataFile)
 
@@ -161,22 +161,22 @@ def processState(stateName, numDistricts):
 
     with open('totalTime.csv','a') as fd:
         writer = csv.writer(fd)
-        writer.writerow([stateName, len(pop), numDistricts, sum(runTimes)])
+        writer.writerow([stateName, len(pop), numDistricts, sum(runTimes), stateLabel, mapType])
 
 
 districtStateFile = open("num_dists.csv")
 districtStates = csv.reader(districtStateFile)
 for state, districts in districtStates:
     print("Processing " + state)
-    try:
-        processState("map_" + state + "_cty_weights", int(districts))
-    except:
-        print("Something went wrong processing cty for " + state)
     # try:
-    #     processState("map_" + state + "_d2p_weights", int(districts))
+    #     processState("map_" + state + "_cty_weights", int(districts), state, "cty")
     # except:
-    #     print("Something went wrong processing d2p for " + state)
+    #     print("Something went wrong processing cty for " + state)
+    try:
+        processState("map_" + state + "_d2p_weights", int(districts), state, "d2p")
+    except:
+        print("Something went wrong processing d2p for " + state)
     # try:
-    #     processState("map_" + state + "_nw_weights", int(districts))
+    #     processState("map_" + state + "_nw_weights", int(districts), state, "nw")
     # except:
     #     print("Something went wrong processing nw for " + state)        
