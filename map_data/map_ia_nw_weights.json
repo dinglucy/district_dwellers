@@ -1,0 +1,1238 @@
+[
+    {
+        "GEOID": "Adair_County",
+        "pop_nw_pct": 0.0574,
+        "adj": [
+            1,
+            14,
+            38,
+            60,
+            87
+        ],
+        "pop": 7496,
+        "weights": []
+    },
+    {
+        "GEOID": "Adams_County",
+        "pop_nw_pct": 0.0502,
+        "adj": [
+            0,
+            14,
+            68,
+            86,
+            87
+        ],
+        "pop": 3704,
+        "weights": []
+    },
+    {
+        "GEOID": "Allamakee_County",
+        "pop_nw_pct": 0.1181,
+        "adj": [
+            21,
+            95
+        ],
+        "pop": 14061,
+        "weights": []
+    },
+    {
+        "GEOID": "Appanoose_County",
+        "pop_nw_pct": 0.0593,
+        "adj": [
+            25,
+            67,
+            92
+        ],
+        "pop": 12317,
+        "weights": []
+    },
+    {
+        "GEOID": "Audubon_County",
+        "pop_nw_pct": 0.0407,
+        "adj": [
+            13,
+            14,
+            38,
+            82
+        ],
+        "pop": 5674,
+        "weights": []
+    },
+    {
+        "GEOID": "Benton_County",
+        "pop_nw_pct": 0.0586,
+        "adj": [
+            6,
+            9,
+            47,
+            56,
+            85
+        ],
+        "pop": 25575,
+        "weights": []
+    },
+    {
+        "GEOID": "Black_Hawk County",
+        "pop_nw_pct": 0.2287,
+        "adj": [
+            5,
+            8,
+            9,
+            11,
+            37,
+            85
+        ],
+        "pop": 131144,
+        "weights": []
+    },
+    {
+        "GEOID": "Boone_County",
+        "pop_nw_pct": 0.0747,
+        "adj": [
+            24,
+            36,
+            39,
+            76,
+            84,
+            93
+        ],
+        "pop": 26715,
+        "weights": []
+    },
+    {
+        "GEOID": "Bremer_County",
+        "pop_nw_pct": 0.0634,
+        "adj": [
+            6,
+            11,
+            18,
+            32
+        ],
+        "pop": 24988,
+        "weights": []
+    },
+    {
+        "GEOID": "Buchanan_County",
+        "pop_nw_pct": 0.0486,
+        "adj": [
+            5,
+            6,
+            27,
+            32,
+            56
+        ],
+        "pop": 20565,
+        "weights": []
+    },
+    {
+        "GEOID": "Buena_Vista County",
+        "pop_nw_pct": 0.4536,
+        "adj": [
+            17,
+            20,
+            75,
+            80
+        ],
+        "pop": 20823,
+        "weights": []
+    },
+    {
+        "GEOID": "Butler_County",
+        "pop_nw_pct": 0.0407,
+        "adj": [
+            6,
+            8,
+            33,
+            34,
+            37
+        ],
+        "pop": 14334,
+        "weights": []
+    },
+    {
+        "GEOID": "Calhoun_County",
+        "pop_nw_pct": 0.0671,
+        "adj": [
+            13,
+            36,
+            75,
+            80,
+            93
+        ],
+        "pop": 9927,
+        "weights": []
+    },
+    {
+        "GEOID": "Carroll_County",
+        "pop_nw_pct": 0.0651,
+        "adj": [
+            4,
+            12,
+            23,
+            36,
+            38,
+            80
+        ],
+        "pop": 20760,
+        "weights": []
+    },
+    {
+        "GEOID": "Cass_County",
+        "pop_nw_pct": 0.0617,
+        "adj": [
+            0,
+            1,
+            4,
+            68,
+            77,
+            82
+        ],
+        "pop": 13127,
+        "weights": []
+    },
+    {
+        "GEOID": "Cedar_County",
+        "pop_nw_pct": 0.0633,
+        "adj": [
+            22,
+            51,
+            52,
+            56,
+            69,
+            81
+        ],
+        "pop": 18505,
+        "weights": []
+    },
+    {
+        "GEOID": "Cerro_Gordo County",
+        "pop_nw_pct": 0.1231,
+        "adj": [
+            33,
+            34,
+            40,
+            65,
+            97
+        ],
+        "pop": 43127,
+        "weights": []
+    },
+    {
+        "GEOID": "Cherokee_County",
+        "pop_nw_pct": 0.0849,
+        "adj": [
+            10,
+            46,
+            70,
+            74,
+            96
+        ],
+        "pop": 11658,
+        "weights": []
+    },
+    {
+        "GEOID": "Chickasaw_County",
+        "pop_nw_pct": 0.0698,
+        "adj": [
+            8,
+            32,
+            33,
+            44,
+            95
+        ],
+        "pop": 12012,
+        "weights": []
+    },
+    {
+        "GEOID": "Clarke_County",
+        "pop_nw_pct": 0.196,
+        "adj": [
+            26,
+            58,
+            60,
+            87,
+            90
+        ],
+        "pop": 9748,
+        "weights": []
+    },
+    {
+        "GEOID": "Clay_County",
+        "pop_nw_pct": 0.0829,
+        "adj": [
+            10,
+            29,
+            70,
+            73
+        ],
+        "pop": 16384,
+        "weights": []
+    },
+    {
+        "GEOID": "Clayton_County",
+        "pop_nw_pct": 0.0547,
+        "adj": [
+            2,
+            27,
+            30,
+            32
+        ],
+        "pop": 17043,
+        "weights": []
+    },
+    {
+        "GEOID": "Clinton_County",
+        "pop_nw_pct": 0.1127,
+        "adj": [
+            15,
+            48,
+            52,
+            81
+        ],
+        "pop": 46460,
+        "weights": []
+    },
+    {
+        "GEOID": "Crawford_County",
+        "pop_nw_pct": 0.357,
+        "adj": [
+            13,
+            42,
+            46,
+            66,
+            80,
+            82
+        ],
+        "pop": 16525,
+        "weights": []
+    },
+    {
+        "GEOID": "Dallas_County",
+        "pop_nw_pct": 0.1803,
+        "adj": [
+            7,
+            36,
+            38,
+            60,
+            76
+        ],
+        "pop": 99678,
+        "weights": []
+    },
+    {
+        "GEOID": "Davis_County",
+        "pop_nw_pct": 0.0412,
+        "adj": [
+            3,
+            88,
+            89
+        ],
+        "pop": 9110,
+        "weights": []
+    },
+    {
+        "GEOID": "Decatur_County",
+        "pop_nw_pct": 0.0831,
+        "adj": [
+            19,
+            79,
+            92
+        ],
+        "pop": 7645,
+        "weights": []
+    },
+    {
+        "GEOID": "Delaware_County",
+        "pop_nw_pct": 0.0447,
+        "adj": [
+            9,
+            21,
+            30,
+            52,
+            56
+        ],
+        "pop": 17488,
+        "weights": []
+    },
+    {
+        "GEOID": "Des_Moines County",
+        "pop_nw_pct": 0.1582,
+        "adj": [
+            43,
+            55,
+            57
+        ],
+        "pop": 38910,
+        "weights": []
+    },
+    {
+        "GEOID": "Dickinson_County",
+        "pop_nw_pct": 0.0561,
+        "adj": [
+            20,
+            31,
+            71
+        ],
+        "pop": 17703,
+        "weights": []
+    },
+    {
+        "GEOID": "Dubuque_County",
+        "pop_nw_pct": 0.1201,
+        "adj": [
+            21,
+            27,
+            48,
+            52
+        ],
+        "pop": 99266,
+        "weights": []
+    },
+    {
+        "GEOID": "Emmet_County",
+        "pop_nw_pct": 0.1336,
+        "adj": [
+            29,
+            54,
+            73
+        ],
+        "pop": 9388,
+        "weights": []
+    },
+    {
+        "GEOID": "Fayette_County",
+        "pop_nw_pct": 0.0746,
+        "adj": [
+            8,
+            9,
+            18,
+            21,
+            95
+        ],
+        "pop": 19509,
+        "weights": []
+    },
+    {
+        "GEOID": "Floyd_County",
+        "pop_nw_pct": 0.1101,
+        "adj": [
+            11,
+            16,
+            18,
+            65
+        ],
+        "pop": 15627,
+        "weights": []
+    },
+    {
+        "GEOID": "Franklin_County",
+        "pop_nw_pct": 0.1981,
+        "adj": [
+            11,
+            16,
+            41,
+            98
+        ],
+        "pop": 10019,
+        "weights": []
+    },
+    {
+        "GEOID": "Fremont_County",
+        "pop_nw_pct": 0.0696,
+        "adj": [
+            64,
+            72
+        ],
+        "pop": 6605,
+        "weights": []
+    },
+    {
+        "GEOID": "Greene_County",
+        "pop_nw_pct": 0.0665,
+        "adj": [
+            7,
+            12,
+            13,
+            24,
+            38,
+            93
+        ],
+        "pop": 8771,
+        "weights": []
+    },
+    {
+        "GEOID": "Grundy_County",
+        "pop_nw_pct": 0.0436,
+        "adj": [
+            6,
+            11,
+            41,
+            63,
+            85
+        ],
+        "pop": 12329,
+        "weights": []
+    },
+    {
+        "GEOID": "Guthrie_County",
+        "pop_nw_pct": 0.0624,
+        "adj": [
+            0,
+            4,
+            13,
+            24,
+            36
+        ],
+        "pop": 10623,
+        "weights": []
+    },
+    {
+        "GEOID": "Hamilton_County",
+        "pop_nw_pct": 0.1554,
+        "adj": [
+            7,
+            41,
+            84,
+            93,
+            98
+        ],
+        "pop": 15039,
+        "weights": []
+    },
+    {
+        "GEOID": "Hancock_County",
+        "pop_nw_pct": 0.091,
+        "adj": [
+            16,
+            54,
+            94,
+            98
+        ],
+        "pop": 10795,
+        "weights": []
+    },
+    {
+        "GEOID": "Hardin_County",
+        "pop_nw_pct": 0.094,
+        "adj": [
+            34,
+            37,
+            39,
+            63,
+            84
+        ],
+        "pop": 16878,
+        "weights": []
+    },
+    {
+        "GEOID": "Harrison_County",
+        "pop_nw_pct": 0.0524,
+        "adj": [
+            23,
+            66,
+            77,
+            82
+        ],
+        "pop": 14582,
+        "weights": []
+    },
+    {
+        "GEOID": "Henry_County",
+        "pop_nw_pct": 0.1386,
+        "adj": [
+            28,
+            50,
+            55,
+            57,
+            88,
+            91
+        ],
+        "pop": 20482,
+        "weights": []
+    },
+    {
+        "GEOID": "Howard_County",
+        "pop_nw_pct": 0.0611,
+        "adj": [
+            18,
+            65,
+            95
+        ],
+        "pop": 9469,
+        "weights": []
+    },
+    {
+        "GEOID": "Humboldt_County",
+        "pop_nw_pct": 0.0807,
+        "adj": [
+            54,
+            75,
+            93,
+            98
+        ],
+        "pop": 9597,
+        "weights": []
+    },
+    {
+        "GEOID": "Ida_County",
+        "pop_nw_pct": 0.0644,
+        "adj": [
+            17,
+            23,
+            80,
+            96
+        ],
+        "pop": 7005,
+        "weights": []
+    },
+    {
+        "GEOID": "Iowa_County",
+        "pop_nw_pct": 0.0761,
+        "adj": [
+            5,
+            51,
+            53,
+            78,
+            91
+        ],
+        "pop": 16662,
+        "weights": []
+    },
+    {
+        "GEOID": "Jackson_County",
+        "pop_nw_pct": 0.0573,
+        "adj": [
+            22,
+            30,
+            52
+        ],
+        "pop": 19485,
+        "weights": []
+    },
+    {
+        "GEOID": "Jasper_County",
+        "pop_nw_pct": 0.0891,
+        "adj": [
+            61,
+            62,
+            63,
+            76,
+            78,
+            84
+        ],
+        "pop": 37813,
+        "weights": []
+    },
+    {
+        "GEOID": "Jefferson_County",
+        "pop_nw_pct": 0.1429,
+        "adj": [
+            43,
+            53,
+            88,
+            89,
+            91
+        ],
+        "pop": 15663,
+        "weights": []
+    },
+    {
+        "GEOID": "Johnson_County",
+        "pop_nw_pct": 0.251,
+        "adj": [
+            15,
+            47,
+            56,
+            57,
+            69,
+            91
+        ],
+        "pop": 152854,
+        "weights": []
+    },
+    {
+        "GEOID": "Jones_County",
+        "pop_nw_pct": 0.0796,
+        "adj": [
+            15,
+            22,
+            27,
+            30,
+            48,
+            56
+        ],
+        "pop": 20646,
+        "weights": []
+    },
+    {
+        "GEOID": "Keokuk_County",
+        "pop_nw_pct": 0.0555,
+        "adj": [
+            47,
+            50,
+            61,
+            78,
+            89,
+            91
+        ],
+        "pop": 10033,
+        "weights": []
+    },
+    {
+        "GEOID": "Kossuth_County",
+        "pop_nw_pct": 0.0722,
+        "adj": [
+            31,
+            40,
+            45,
+            73,
+            94
+        ],
+        "pop": 14828,
+        "weights": []
+    },
+    {
+        "GEOID": "Lee_County",
+        "pop_nw_pct": 0.1093,
+        "adj": [
+            28,
+            43,
+            88
+        ],
+        "pop": 33555,
+        "weights": []
+    },
+    {
+        "GEOID": "Linn_County",
+        "pop_nw_pct": 0.1841,
+        "adj": [
+            5,
+            9,
+            15,
+            27,
+            51,
+            52
+        ],
+        "pop": 230299,
+        "weights": []
+    },
+    {
+        "GEOID": "Louisa_County",
+        "pop_nw_pct": 0.217,
+        "adj": [
+            28,
+            43,
+            51,
+            69,
+            91
+        ],
+        "pop": 10837,
+        "weights": []
+    },
+    {
+        "GEOID": "Lucas_County",
+        "pop_nw_pct": 0.0556,
+        "adj": [
+            19,
+            62,
+            67,
+            90,
+            92
+        ],
+        "pop": 8634,
+        "weights": []
+    },
+    {
+        "GEOID": "Lyon_County",
+        "pop_nw_pct": 0.0636,
+        "adj": [
+            71,
+            83
+        ],
+        "pop": 11934,
+        "weights": []
+    },
+    {
+        "GEOID": "Madison_County",
+        "pop_nw_pct": 0.0631,
+        "adj": [
+            0,
+            19,
+            24,
+            87,
+            90
+        ],
+        "pop": 16548,
+        "weights": []
+    },
+    {
+        "GEOID": "Mahaska_County",
+        "pop_nw_pct": 0.087,
+        "adj": [
+            49,
+            53,
+            62,
+            67,
+            78,
+            89
+        ],
+        "pop": 22190,
+        "weights": []
+    },
+    {
+        "GEOID": "Marion_County",
+        "pop_nw_pct": 0.0747,
+        "adj": [
+            49,
+            58,
+            61,
+            67,
+            76,
+            90
+        ],
+        "pop": 33414,
+        "weights": []
+    },
+    {
+        "GEOID": "Marshall_County",
+        "pop_nw_pct": 0.3158,
+        "adj": [
+            37,
+            41,
+            49,
+            84,
+            85
+        ],
+        "pop": 40105,
+        "weights": []
+    },
+    {
+        "GEOID": "Mills_County",
+        "pop_nw_pct": 0.0797,
+        "adj": [
+            35,
+            68,
+            77
+        ],
+        "pop": 14484,
+        "weights": []
+    },
+    {
+        "GEOID": "Mitchell_County",
+        "pop_nw_pct": 0.0459,
+        "adj": [
+            16,
+            33,
+            44,
+            97
+        ],
+        "pop": 10565,
+        "weights": []
+    },
+    {
+        "GEOID": "Monona_County",
+        "pop_nw_pct": 0.08,
+        "adj": [
+            23,
+            42,
+            96
+        ],
+        "pop": 8751,
+        "weights": []
+    },
+    {
+        "GEOID": "Monroe_County",
+        "pop_nw_pct": 0.0508,
+        "adj": [
+            3,
+            58,
+            61,
+            62,
+            89
+        ],
+        "pop": 7577,
+        "weights": []
+    },
+    {
+        "GEOID": "Montgomery_County",
+        "pop_nw_pct": 0.0704,
+        "adj": [
+            1,
+            14,
+            64,
+            72,
+            77
+        ],
+        "pop": 10330,
+        "weights": []
+    },
+    {
+        "GEOID": "Muscatine_County",
+        "pop_nw_pct": 0.2452,
+        "adj": [
+            15,
+            51,
+            57,
+            81
+        ],
+        "pop": 43235,
+        "weights": []
+    },
+    {
+        "GEOID": "O'Brien_County",
+        "pop_nw_pct": 0.1109,
+        "adj": [
+            17,
+            20,
+            71,
+            83
+        ],
+        "pop": 14182,
+        "weights": []
+    },
+    {
+        "GEOID": "Osceola_County",
+        "pop_nw_pct": 0.1374,
+        "adj": [
+            29,
+            59,
+            70
+        ],
+        "pop": 6192,
+        "weights": []
+    },
+    {
+        "GEOID": "Page_County",
+        "pop_nw_pct": 0.1003,
+        "adj": [
+            35,
+            68,
+            86
+        ],
+        "pop": 15211,
+        "weights": []
+    },
+    {
+        "GEOID": "Palo_Alto County",
+        "pop_nw_pct": 0.0673,
+        "adj": [
+            20,
+            31,
+            54,
+            75
+        ],
+        "pop": 8996,
+        "weights": []
+    },
+    {
+        "GEOID": "Plymouth_County",
+        "pop_nw_pct": 0.1073,
+        "adj": [
+            17,
+            83,
+            96
+        ],
+        "pop": 25698,
+        "weights": []
+    },
+    {
+        "GEOID": "Pocahontas_County",
+        "pop_nw_pct": 0.0982,
+        "adj": [
+            10,
+            12,
+            45,
+            73,
+            93
+        ],
+        "pop": 7078,
+        "weights": []
+    },
+    {
+        "GEOID": "Polk_County",
+        "pop_nw_pct": 0.2643,
+        "adj": [
+            7,
+            24,
+            49,
+            62,
+            84,
+            90
+        ],
+        "pop": 492401,
+        "weights": []
+    },
+    {
+        "GEOID": "Pottawattamie_County",
+        "pop_nw_pct": 0.1547,
+        "adj": [
+            14,
+            42,
+            64,
+            68,
+            82
+        ],
+        "pop": 93667,
+        "weights": []
+    },
+    {
+        "GEOID": "Poweshiek_County",
+        "pop_nw_pct": 0.0888,
+        "adj": [
+            47,
+            49,
+            53,
+            61,
+            85
+        ],
+        "pop": 18662,
+        "weights": []
+    },
+    {
+        "GEOID": "Ringgold_County",
+        "pop_nw_pct": 0.0463,
+        "adj": [
+            26,
+            86,
+            87
+        ],
+        "pop": 4663,
+        "weights": []
+    },
+    {
+        "GEOID": "Sac_County",
+        "pop_nw_pct": 0.0665,
+        "adj": [
+            10,
+            12,
+            13,
+            23,
+            46
+        ],
+        "pop": 9814,
+        "weights": []
+    },
+    {
+        "GEOID": "Scott_County",
+        "pop_nw_pct": 0.2295,
+        "adj": [
+            15,
+            22,
+            69
+        ],
+        "pop": 174669,
+        "weights": []
+    },
+    {
+        "GEOID": "Shelby_County",
+        "pop_nw_pct": 0.0729,
+        "adj": [
+            4,
+            14,
+            23,
+            42,
+            77
+        ],
+        "pop": 11746,
+        "weights": []
+    },
+    {
+        "GEOID": "Sioux_County",
+        "pop_nw_pct": 0.166,
+        "adj": [
+            59,
+            70,
+            74
+        ],
+        "pop": 35872,
+        "weights": []
+    },
+    {
+        "GEOID": "Story_County",
+        "pop_nw_pct": 0.1887,
+        "adj": [
+            7,
+            39,
+            41,
+            49,
+            63,
+            76
+        ],
+        "pop": 98537,
+        "weights": []
+    },
+    {
+        "GEOID": "Tama_County",
+        "pop_nw_pct": 0.2247,
+        "adj": [
+            5,
+            6,
+            37,
+            63,
+            78
+        ],
+        "pop": 17135,
+        "weights": []
+    },
+    {
+        "GEOID": "Taylor_County",
+        "pop_nw_pct": 0.1004,
+        "adj": [
+            1,
+            72,
+            79
+        ],
+        "pop": 5896,
+        "weights": []
+    },
+    {
+        "GEOID": "Union_County",
+        "pop_nw_pct": 0.0754,
+        "adj": [
+            0,
+            1,
+            19,
+            60,
+            79
+        ],
+        "pop": 12138,
+        "weights": []
+    },
+    {
+        "GEOID": "Van_Buren County",
+        "pop_nw_pct": 0.0451,
+        "adj": [
+            25,
+            43,
+            50,
+            55
+        ],
+        "pop": 7203,
+        "weights": []
+    },
+    {
+        "GEOID": "Wapello_County",
+        "pop_nw_pct": 0.2298,
+        "adj": [
+            25,
+            50,
+            53,
+            61,
+            67
+        ],
+        "pop": 35437,
+        "weights": []
+    },
+    {
+        "GEOID": "Warren_County",
+        "pop_nw_pct": 0.086,
+        "adj": [
+            19,
+            58,
+            60,
+            62,
+            76
+        ],
+        "pop": 52403,
+        "weights": []
+    },
+    {
+        "GEOID": "Washington_County",
+        "pop_nw_pct": 0.1155,
+        "adj": [
+            43,
+            47,
+            50,
+            51,
+            53,
+            57
+        ],
+        "pop": 22565,
+        "weights": []
+    },
+    {
+        "GEOID": "Wayne_County",
+        "pop_nw_pct": 0.0414,
+        "adj": [
+            3,
+            26,
+            58
+        ],
+        "pop": 6497,
+        "weights": []
+    },
+    {
+        "GEOID": "Webster_County",
+        "pop_nw_pct": 0.1521,
+        "adj": [
+            7,
+            12,
+            36,
+            39,
+            45,
+            75,
+            98
+        ],
+        "pop": 36999,
+        "weights": []
+    },
+    {
+        "GEOID": "Winnebago_County",
+        "pop_nw_pct": 0.113,
+        "adj": [
+            40,
+            54,
+            97
+        ],
+        "pop": 10679,
+        "weights": []
+    },
+    {
+        "GEOID": "Winneshiek_County",
+        "pop_nw_pct": 0.068,
+        "adj": [
+            2,
+            18,
+            32,
+            44
+        ],
+        "pop": 20070,
+        "weights": []
+    },
+    {
+        "GEOID": "Woodbury_County",
+        "pop_nw_pct": 0.3181,
+        "adj": [
+            17,
+            46,
+            66,
+            74
+        ],
+        "pop": 105941,
+        "weights": []
+    },
+    {
+        "GEOID": "Worth_County",
+        "pop_nw_pct": 0.0668,
+        "adj": [
+            16,
+            65,
+            94
+        ],
+        "pop": 7443,
+        "weights": []
+    },
+    {
+        "GEOID": "Wright_County",
+        "pop_nw_pct": 0.2191,
+        "adj": [
+            34,
+            39,
+            40,
+            45,
+            93
+        ],
+        "pop": 12943,
+        "weights": []
+    }
+]
