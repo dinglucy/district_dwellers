@@ -18,8 +18,11 @@ map_RI_d2p_weights,423,2,6.75000906,RI,d2p
 map_WV_d2p_weights,55,2,1.314517021,WV,d2p
 map_NE_d2p_weights,1402,3,209.1622849,NE,d2p
 map_NM_d2p_weights,1977,3,191.2701499,NM,d2p
-map_IA_d2p_weights,99,4,12.08758998,IA,d2pmap_CT_cty_weights,766,5,33.6418879032135,CT,cty
+map_IA_d2p_weights,99,4,12.08758998,IA,d2p
+map_CT_cty_weights,766,5,33.6418879032135,CT,cty
 map_CT_d2p_weights,766,5,110.11115622520447,CT,d2p
 map_CT_nw_weights,766,5,103.16902995109558,CT,nw
 map_MS_cty_weights,1834,4,1018.8676428794861,MS,cty
 map_MS_d2p_weights,1834,4,1260.5950973033905,MS,d2p
+map_MS_nw_weights,1834,4,1088.004562139511,MS,nw
+map_CT_nw_weights,766,5,83.60848426818848,CT,nw
