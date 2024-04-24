@@ -1,0 +1,349 @@
+/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pulp/pulp.py:1675: UserWarning: Overwriting previously set objective.
+  warnings.warn("Overwriting previously set objective.")
+/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pulp/pulp.py:1668: UserWarning: Overwriting previously set objective.
+  warnings.warn("Overwriting previously set objective.")
+Sending to solver...
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pulp/solverdir/cbc/osx/64/cbc /var/folders/z3/3qb7cv41693fmz3b6hbntjkr0000gn/T/b0dc1eeeb8c94e2ab7691020117b224c-pulp.mps -threads 12 -timeMode elapsed -branch -printingOptions all -solution /var/folders/z3/3qb7cv41693fmz3b6hbntjkr0000gn/T/b0dc1eeeb8c94e2ab7691020117b224c-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 2740 COLUMNS
+At line 14826 RHS
+At line 17562 BOUNDS
+At line 19141 ENDATA
+Problem MODEL has 2735 rows, 1578 columns and 7774 elements
+Coin0008I MODEL read with 0 errors
+threads was changed from 0 to 12
+Option for timeMode changed from cpu to elapsed
+Continuous objective value is 0 - 0.01 seconds
+Cgl0004I processed model has 2311 rows, 1578 columns (1578 integer (1578 of which binary)) and 7352 elements
+Cbc0038I Initial state - 423 integers unsatisfied sum - 200.925
+Cbc0038I Pass   1: suminf.  200.92500 (423) obj. 0 iterations 375
+Cbc0038I Pass   2: suminf.  106.39553 (345) obj. 1128.69 iterations 249
+Cbc0038I Pass   3: suminf.  101.46125 (329) obj. 1631.98 iterations 391
+Cbc0038I Pass   4: suminf.   74.58121 (189) obj. 3357.19 iterations 476
+Cbc0038I Pass   5: suminf.   40.03260 (94) obj. 4481.73 iterations 666
+Cbc0038I Pass   6: suminf.    1.39872 (74) obj. 5782.64 iterations 130
+Cbc0038I Pass   7: suminf.    1.10938 (161) obj. 5807.7 iterations 193
+Cbc0038I Pass   8: suminf.    2.80348 (20) obj. 5950.67 iterations 279
+Cbc0038I Pass   9: suminf.    0.00000 (0) obj. 22826.2 iterations 450
+Cbc0038I Solution found of 22826.2
+Cbc0038I Rounding solution of 5195.72 is better than previous of 22826.2
+
+Cbc0038I Before mini branch and bound, 921 integers at bound fixed and 0 continuous
+Cbc0038I Full problem 2311 rows 1578 columns, reduced to 2311 rows 657 columns - 143 fixed gives 993, 292 - ok now
+Cbc0038I Mini branch and bound did not improve solution (0.18 seconds)
+Cbc0038I Round again with cutoff of 4676.14
+Cbc0038I Pass  10: suminf.  200.92500 (423) obj. 0 iterations 0
+Cbc0038I Pass  11: suminf.  200.92500 (423) obj. 3.17045e-13 iterations 251
+Cbc0038I Pass  12: suminf.  200.01916 (423) obj. 53.7684 iterations 568
+Cbc0038I Pass  13: suminf.  199.54630 (422) obj. 102 iterations 551
+Cbc0038I Pass  14: suminf.  199.54630 (422) obj. 102 iterations 248
+Cbc0038I Pass  15: suminf.  135.00802 (349) obj. 1040.12 iterations 614
+Cbc0038I Pass  16: suminf.  107.64806 (334) obj. 1631.98 iterations 532
+Cbc0038I Pass  17: suminf.  107.64806 (334) obj. 1631.98 iterations 218
+Cbc0038I Pass  18: suminf.  132.30701 (342) obj. 4676.14 iterations 657
+Cbc0038I Pass  19: suminf.  109.75090 (341) obj. 4676.14 iterations 276
+Cbc0038I Pass  20: suminf.  109.75090 (341) obj. 4676.14 iterations 2
+Cbc0038I Pass  21: suminf.  109.75090 (341) obj. 4676.14 iterations 188
+Cbc0038I Pass  22: suminf.  110.98709 (345) obj. 4676.14 iterations 436
+Cbc0038I Pass  23: suminf.  110.75535 (344) obj. 4676.14 iterations 232
+Cbc0038I Pass  24: suminf.  110.75535 (344) obj. 4676.14 iterations 112
+Cbc0038I Pass  25: suminf.  133.61078 (346) obj. 4676.14 iterations 421
+Cbc0038I Pass  26: suminf.  110.98893 (345) obj. 4676.14 iterations 336
+Cbc0038I Pass  27: suminf.  110.75318 (344) obj. 4676.14 iterations 2
+Cbc0038I Pass  28: suminf.  110.75318 (344) obj. 4676.14 iterations 132
+Cbc0038I Pass  29: suminf.  111.63817 (346) obj. 4676.14 iterations 431
+Cbc0038I Pass  30: suminf.  110.74890 (344) obj. 4676.14 iterations 333
+Cbc0038I Pass  31: suminf.  110.74890 (344) obj. 4676.14 iterations 161
+Cbc0038I Pass  32: suminf.  134.30803 (347) obj. 4676.14 iterations 439
+Cbc0038I Pass  33: suminf.  111.63255 (346) obj. 4676.14 iterations 307
+Cbc0038I Pass  34: suminf.  110.75521 (344) obj. 4676.14 iterations 14
+Cbc0038I Pass  35: suminf.  110.75521 (344) obj. 4676.14 iterations 89
+Cbc0038I Pass  36: suminf.  133.62796 (346) obj. 4676.14 iterations 385
+Cbc0038I Pass  37: suminf.  111.65039 (346) obj. 4676.14 iterations 281
+Cbc0038I Pass  38: suminf.  110.73655 (344) obj. 4676.14 iterations 7
+Cbc0038I Pass  39: suminf.  110.73655 (344) obj. 4676.14 iterations 102
+Cbc0038I No solution found this major pass
+Cbc0038I Before mini branch and bound, 1054 integers at bound fixed and 0 continuous
+Cbc0038I Mini branch and bound did not improve solution (0.67 seconds)
+Cbc0038I After 0.67 seconds - Feasibility pump exiting with objective of 5195.72 - took 0.63 seconds
+Cbc0012I Integer solution of 5195.716 found by feasibility pump after 0 iterations and 0 nodes (0.67 seconds)
+Cbc0038I Full problem 2311 rows 1578 columns, reduced to 2311 rows 474 columns - 272 fixed gives 1003, 202 - ok now
+Cbc0038I Full problem 2311 rows 1578 columns, reduced to 0 rows 0 columns
+Cbc0013I At root node, 0 cuts changed objective from 0 to 0 in 1 passes
+Cbc0014I Cut generator 0 (Probing) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.001 seconds - new frequency is -100
+Cbc0014I Cut generator 1 (Gomory) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.007 seconds - new frequency is -100
+Cbc0014I Cut generator 2 (Knapsack) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.002 seconds - new frequency is -100
+Cbc0014I Cut generator 3 (Clique) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is -100
+Cbc0014I Cut generator 4 (MixedIntegerRounding2) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.003 seconds - new frequency is -100
+Cbc0014I Cut generator 5 (FlowCover) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is -100
+Cbc0010I After 0 nodes, 1 on tree, 5195.716 best solution, best possible 0 (1.27 seconds)
+Cbc0012I Integer solution of 4885.834 found by DiveCoefficient after 1354 iterations and 7 nodes (2.21 seconds)
+Cbc0012I Integer solution of 4479.313 found by DiveCoefficient after 1552 iterations and 9 nodes (2.36 seconds)
+Cbc0012I Integer solution of 4885.834 found by heuristic after 1597 iterations and 9 nodes (2.41 seconds)
+Cbc0012I Integer solution of 4479.313 found by heuristic after 1683 iterations and 11 nodes (2.48 seconds)
+Cbc0012I Integer solution of 4379.8141 found by DiveCoefficient after 1778 iterations and 12 nodes (2.52 seconds)
+Cbc0012I Integer solution of 3158.7436 found by DiveCoefficient after 1907 iterations and 13 nodes (2.56 seconds)
+Cbc0012I Integer solution of 2853.9289 found by DiveCoefficient after 1907 iterations and 13 nodes (2.68 seconds)
+Cbc0012I Integer solution of 2853.9289 found by heuristic after 2188 iterations and 16 nodes (2.68 seconds)
+Cbc0012I Integer solution of 2951.7858 found by DiveCoefficient after 2237 iterations and 17 nodes (2.68 seconds)
+Cbc0012I Integer solution of 4375.5633 found by DiveCoefficient after 2134 iterations and 16 nodes (2.73 seconds)
+Cbc0012I Integer solution of 3665.7361 found by DiveCoefficient after 1778 iterations and 12 nodes (2.77 seconds)
+Cbc0012I Integer solution of 2849.8266 found by DiveCoefficient after 6923 iterations and 50 nodes (3.53 seconds)
+Cbc0012I Integer solution of 2747.4652 found by heuristic after 8174 iterations and 62 nodes (3.74 seconds)
+Cbc0012I Integer solution of 2547.1226 found by heuristic after 12076 iterations and 97 nodes (4.01 seconds)
+Cbc0010I After 100 nodes, 19 on tree, 2547.1226 best solution, best possible 849.45058 (4.03 seconds)
+Cbc0012I Integer solution of 2544.5476 found by heuristic after 20162 iterations and 151 nodes (4.48 seconds)
+Cbc0010I After 200 nodes, 12 on tree, 2544.5476 best solution, best possible 849.45058 (5.22 seconds)
+Cbc0010I After 300 nodes, 1 on tree, 2544.5476 best solution, best possible 849.45058 (6.13 seconds)
+Cbc0010I After 401 nodes, 1 on tree, 2544.5476 best solution, best possible 849.45058 (7.39 seconds)
+Cbc0030I Thread 0 used 56 times,  waiting to start 0.50251603,  261 locks, 0.0022966862 locked, 7.3671341e-05 waiting for locks
+Cbc0030I Thread 1 used 38 times,  waiting to start 0.71467662,  181 locks, 0.0011138916 locked, 8.4400177e-05 waiting for locks
+Cbc0030I Thread 2 used 31 times,  waiting to start 0.93871021,  155 locks, 0.0016291142 locked, 1.8596649e-05 waiting for locks
+Cbc0030I Thread 3 used 30 times,  waiting to start 1.3456273,  140 locks, 0.00077533722 locked, 0.0001475811 waiting for locks
+Cbc0030I Thread 4 used 35 times,  waiting to start 1.5537324,  167 locks, 0.0010247231 locked, 0.0011775494 waiting for locks
+Cbc0030I Thread 5 used 23 times,  waiting to start 1.6728489,  112 locks, 0.00091028214 locked, 0.0007109642 waiting for locks
+Cbc0030I Thread 6 used 26 times,  waiting to start 1.5592172,  125 locks, 0.00095677376 locked, 0.00067353249 waiting for locks
+Cbc0030I Thread 7 used 39 times,  waiting to start 2.0684376,  181 locks, 0.001149416 locked, 9.0837479e-05 waiting for locks
+Cbc0030I Thread 8 used 38 times,  waiting to start 1.573163,  180 locks, 0.0012552738 locked, 0.00015425682 waiting for locks
+Cbc0030I Thread 9 used 26 times,  waiting to start 1.8680708,  125 locks, 0.00068855286 locked, 0.0001347065 waiting for locks
+Cbc0030I Thread 10 used 34 times,  waiting to start 2.1929514,  157 locks, 0.00094127655 locked, 4.696846e-05 waiting for locks
+Cbc0030I Thread 11 used 27 times,  waiting to start 2.3445785,  131 locks, 0.0009970665 locked, 4.8875809e-05 waiting for locks
+Cbc0030I Main thread 4.9870923 waiting for threads,  827 locks, 0.00091910362 locked, 0.0051634312 waiting for locks
+Cbc0001I Search completed - best objective 2544.5476, took 67612 iterations and 403 nodes (7.41 seconds)
+Cbc0032I Strong branching done 4874 times (339301 iterations), fathomed 88 nodes and fixed 5 variables
+Cbc0035I Maximum depth 11, 33283 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.011 seconds)
+Gomory was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.089 seconds)
+Knapsack was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.027 seconds)
+Clique was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.005 seconds)
+MixedIntegerRounding2 was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.041 seconds)
+FlowCover was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.001 seconds)
+TwoMirCuts was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.106 seconds)
+ZeroHalf was tried 13 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.120 seconds)
+
+Result - Optimal solution found
+
+Objective value:                2544.54760000
+Enumerated nodes:               403
+Total iterations:               67612
+Time (CPU seconds):             49.61
+Time (Wallclock seconds):       7.42
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       49.61   (Wallclock seconds):       7.42
+
+1
+x44007440301 1.0
+x44007440302 1.0
+x44007440303 1.0
+x44007440304 1.0
+x44007441301 1.0
+x44007441303 1.0
+x44007440305 1.0
+x44007440306 1.0
+x44007441304 1.0
+x44007442501 1.0
+x44007442502 1.0
+x44007442503 1.0
+x44007440401 1.0
+x44007440402 1.0
+x44007440403 1.0
+x44007440404 1.0
+x44007440406 1.0
+x44007442611 1.0
+x44007442613 1.0
+x44007440405 1.0
+x44007440407 1.0
+x44007440408 1.0
+x44007441704 1.0
+x44007442606 1.0
+x44007440810 1.0
+x44007441710 1.0
+x44007440701 1.0
+x44007440702 1.0
+x44007440705 1.0
+x44007442870 1.0
+x44007442877 1.0
+x44007442878 1.0
+x44007441603 1.0
+x44007441602 1.0
+x44007443001 1.0
+x44007440801 1.0
+x44007440802 1.0
+x44007440803 1.0
+x44007440806 1.0
+x44007440807 1.0
+x44007440812 1.0
+x44007441702 1.0
+x44007441708 1.0
+x44007440809 1.0
+x44007440813 1.0
+x44007441703 1.0
+x44007440804 1.0
+x44007440808 1.0
+x44007443909 1.0
+x44007440805 1.0
+x44007440811 1.0
+x44007441711 1.0
+x44007441705 1.0
+x44007443905 1.0
+x44007441001 1.0
+x44007441002 1.0
+x44007441004 1.0
+x44007441005 1.0
+x44007442630 1.0
+x44007442805 1.0
+x44007442815 1.0
+x44007441003 1.0
+x44007441008 1.0
+x44007442808 1.0
+x44007441006 1.0
+x44007442628 1.0
+x44007442629 1.0
+x44007442809 1.0
+x44007441201 1.0
+x44007441302 1.0
+x44007443003 1.0
+x44007443104 1.0
+x44007443105 1.0
+x44007441601 1.0
+x44007441604 1.0
+x44007441607 1.0
+x44007442874 1.0
+x44007441605 1.0
+x44007441608 1.0
+x44007441609 1.0
+x44007441612 1.0
+x44007441613 1.0
+x44007441606 1.0
+x44007441610 1.0
+x44007441611 1.0
+x44007442402 1.0
+x44007442406 1.0
+x44007442409 1.0
+x44007442850 1.0
+x44007442408 1.0
+x44007443102 1.0
+x44007443103 1.0
+x44007442849 1.0
+x44007441701 1.0
+x44007441706 1.0
+x44007441707 1.0
+x44007442411 1.0
+x44007442416 1.0
+x44007443101 1.0
+x44007443106 1.0
+x44007441709 1.0
+x44007442601 1.0
+x44007442603 1.0
+x44007442401 1.0
+x44007442405 1.0
+x44007442845 1.0
+x44007442403 1.0
+x44007442404 1.0
+x44007442407 1.0
+x44007442410 1.0
+x44007442414 1.0
+x44007442846 1.0
+x44007442412 1.0
+x44007442413 1.0
+x44007442819 1.0
+x44007442820 1.0
+x44007442415 1.0
+x44007442604 1.0
+x44007442821 1.0
+x44007442505 1.0
+x44007443908 1.0
+x44007442504 1.0
+x44007443904 1.0
+x44007443912 1.0
+x44007443906 1.0
+x44007443907 1.0
+x44007442602 1.0
+x44007442605 1.0
+x44007442607 1.0
+x44007442608 1.0
+x44007442631 1.0
+x44007442880 1.0
+x44007442610 1.0
+x44007442609 1.0
+x44007442627 1.0
+x44007442816 1.0
+x44007442612 1.0
+x44007442614 1.0
+x44007442618 1.0
+x44007442615 1.0
+x44007442616 1.0
+x44007442617 1.0
+x44007442620 1.0
+x44007442625 1.0
+x44007442622 1.0
+x44007442623 1.0
+x44007442626 1.0
+x44007442619 1.0
+x44007442621 1.0
+x44007442624 1.0
+x44007442801 1.0
+x44007442813 1.0
+x44007442818 1.0
+x44007442835 1.0
+x44007442836 1.0
+x44007442837 1.0
+x44007442802 1.0
+x44007442803 1.0
+x44007442804 1.0
+x44007442806 1.0
+x44007442817 1.0
+x44007442810 1.0
+x44007442807 1.0
+x44007442839 1.0
+x44007442833 1.0
+x44007442840 1.0
+x44007442811 1.0
+x44007442812 1.0
+x44007442814 1.0
+x44007442844 1.0
+x44007442841 1.0
+x44007442842 1.0
+x44007442822 1.0
+x44007442825 1.0
+x44007442828 1.0
+x44007442864 1.0
+x44007442866 1.0
+x44007442868 1.0
+x44007442823 1.0
+x44007442873 1.0
+x44007442830 1.0
+x44007442858 1.0
+x44007442859 1.0
+x44007442862 1.0
+x44007442838 1.0
+x44007442853 1.0
+x44007442843 1.0
+x44007442851 1.0
+x44007442854 1.0
+x44007442847 1.0
+x44007442848 1.0
+x44007442855 1.0
+x44007442860 1.0
+x44007442865 1.0
+x44007442863 1.0
+x44007442867 1.0
+x44007442852 1.0
+x44007442857 1.0
+x44007442856 1.0
+x44007442861 1.0
+x44007442869 1.0
+x44007442875 1.0
+x44007442876 1.0
+x44007443901 1.0
+x44007443902 1.0
+x44007443910 1.0
+x44007443911 1.0
+x44007443903 1.0
