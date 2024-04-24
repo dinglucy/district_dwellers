@@ -71,7 +71,7 @@ def CutPartition(remainingGraph, targetPop, popDeviation, populations):
         raise ValueError("District Generated not of Proper Population") 
     return toReturn, time.time()-startTime
 
-def processState(stateName):
+def processState(stateName, numDistricts):
     dataFile = open("map_data/" + stateName + ".json")
     data = json.load(dataFile)
 
@@ -105,8 +105,6 @@ def processState(stateName):
         #         stateGraph.add_edge(countyNames[i], countyNames[adjacencies[i]], weight=weights[i])
 
     # Population per district
-    # TODO: FIX:
-    numDistricts = 4
     targetPop = totalPop / numDistricts
     remainingGraph = stateGraph.copy()
     districts = []
@@ -157,8 +155,30 @@ def processState(stateName):
     timeWriter.writerow(["district", "runtime"])
     for i in range(len(runTimes)):
         timeWriter.writerow([i, runTimes[i]])
-    timeWriter.writerow(['Sum:', sum(runTimes)])
+    timeWriter.writerow(['sum', sum(runTimes)])
+    timeWriter.writerow(['numPrecincts', len(pop)])
     timeFile.close()
 
+    with open('totalTime.csv','a') as fd:
+        writer = csv.writer(fd)
+        writer.writerow([stateName, len(pop), numDistricts, sum(runTimes)])
 
 
+districtStateFile = open("num_dists.csv")
+districtStates = csv.reader(districtStateFile)
+for state, districts in districtStates:
+    print("Processing " + state)
+    processState("map_" + state + "_cty_weights", districts)
+
+    # try:
+    #     processState("map_" + state + "_cty_weights", districts)
+    # except:
+    #     print("Something went wrong processing cty for " + state)
+    # try:
+    #     processState("map_" + state + "_d2p_weights", districts)
+    # except:
+    #     print("Something went wrong processing d2p for " + state)
+    # try:
+    #     processState("map_" + state + "_nw_weights", districts)
+    # except:
+    #     print("Something went wrong processing nw for " + state)        
