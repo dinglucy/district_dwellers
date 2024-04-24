@@ -1,0 +1,2188 @@
+Sending to solver...
+CutPartition:
+MINIMIZE
+102.0*yAdair_CountyAdams_County + 101.9999*yAdair_CountyCass_County + 101.9999*yAdair_CountyGuthrie_County + 101.9998*yAdair_CountyMadison_County + 101.9994*yAdair_CountyUnion_County + 101.9968*yAdams_CountyCass_County + 101.9996*yAdams_CountyMontgomery_County + 101.9975*yAdams_CountyTaylor_County + 101.9982*yAdams_CountyUnion_County + 102.0*yAllamakee_CountyClayton_County + 101.9997*yAllamakee_CountyWinneshiek_County + 101.9999*yAppanoose_CountyDavis_County + 102.0*yAppanoose_CountyMonroe_County + 101.9999*yAppanoose_CountyWayne_County + 101.9998*yAudubon_CountyCarroll_County + 101.9995*yAudubon_CountyShelby_County + 101.9681*yBenton_CountyBlack_Hawk_County + 102.0*yBenton_CountyBuchanan_County + 101.9993*yBenton_CountyIowa_County + 101.9821*yBenton_CountyLinn_County + 101.9695*yBenton_CountyTama_County + 101.9998*yBlack_Hawk_CountyBremer_County + 101.9952*yBlack_Hawk_CountyBuchanan_County + 101.9999*yBlack_Hawk_CountyButler_County + 102.0*yBlack_Hawk_CountyGrundy_County + 101.9886*yBlack_Hawk_CountyTama_County + 101.9831*yBoone_CountyDallas_County + 101.9997*yBoone_CountyGreene_County + 101.9889*yBoone_CountyHamilton_County + 101.9542*yBoone_CountyPolk_County + 101.9808*yBoone_CountyStory_County + 101.9896*yBoone_CountyWebster_County + 101.994*yBremer_CountyButler_County + 101.9996*yBremer_CountyChickasaw_County + 101.9994*yBremer_CountyFayette_County + 102.0*yBuchanan_CountyDelaware_County + 101.9981*yBuchanan_CountyFayette_County + 101.9956*yBuchanan_CountyLinn_County + 101.9988*yBuena_Vista_CountyCherokee_County + 101.9989*yBuena_Vista_CountyClay_County + 101.9977*yBuena_Vista_CountyPocahontas_County + 101.9997*yBuena_Vista_CountySac_County + 101.9964*yButler_CountyFloyd_County + 101.9781*yButler_CountyFranklin_County + 101.9945*yButler_CountyGrundy_County + 101.9972*yCarroll_CountyCalhoun_County + 101.9059*yCarroll_CountyCrawford_County + 101.9999*yCarroll_CountyGreene_County + 101.9999*yCarroll_CountySac_County + 102.0*yCass_CountyAudubon_County + 101.9977*yCass_CountyMontgomery_County + 101.9891*yCass_CountyPottawattamie_County + 101.998*yCass_CountyShelby_County + 101.9961*yCedar_CountyClinton_County + 101.9597*yCedar_CountyJohnson_County + 101.9991*yCedar_CountyJones_County + 101.962*yCedar_CountyMuscatine_County + 101.9678*yCedar_CountyScott_County + 101.9983*yCerro_Gordo_CountyHancock_County + 102.0*yCerro_Gordo_CountyMitchell_County + 101.9997*yCerro_Gordo_CountyWorth_County + 101.9998*yCherokee_CountyIda_County + 101.9963*yCherokee_CountyO'Brien_County + 101.9967*yCherokee_CountyPlymouth_County + 101.9282*yCherokee_CountyWoodbury_County + 101.9998*yChickasaw_CountyFayette_County + 101.9974*yChickasaw_CountyFloyd_County + 101.9999*yChickasaw_CountyHoward_County + 101.9989*yClarke_CountyDecatur_County + 102.0*yClarke_CountyLucas_County + 101.9987*yClarke_CountyWarren_County + 102.0*yClay_CountyDickinson_County + 101.9999*yClay_CountyO'Brien_County + 101.9997*yClay_CountyPalo_Alto_County + 101.9946*yClayton_CountyDelaware_County + 101.9951*yClayton_CountyDubuque_County + 101.9988*yClayton_CountyFayette_County + 102.0*yClinton_CountyJackson_County + 101.9985*yClinton_CountyJones_County + 101.9876*yClinton_CountyScott_County + 102.0*yCrawford_CountyHarrison_County + 101.9971*yCrawford_CountyIda_County + 101.9991*yCrawford_CountyMonona_County + 101.9993*yDallas_CountyGreene_County + 101.9786*yDallas_CountyPolk_County + 102.0*yDavis_CountyVan_Buren_County + 101.9678*yDavis_CountyWapello_County + 102.0*yDecatur_CountyRinggold_County + 102.0*yDelaware_CountyDubuque_County + 101.9996*yDelaware_CountyJones_County + 101.9922*yDes_Moines_CountyHenry_County + 101.9965*yDes_Moines_CountyLee_County + 101.9722*yDes_Moines_CountyLouisa_County + 101.9931*yDickinson_CountyEmmet_County + 101.9924*yDickinson_CountyOsceola_County + 101.9963*yDubuque_CountyJackson_County + 101.9995*yEmmet_CountyKossuth_County + 101.9999*yFloyd_CountyCerro_Gordo_County + 101.9948*yFloyd_CountyMitchell_County + 101.9936*yFranklin_CountyCerro_Gordo_County + 101.9981*yFranklin_CountyHardin_County + 101.9715*yFranklin_CountyWright_County + 101.9991*yFremont_CountyMills_County + 101.9975*yFremont_CountyPage_County + 101.9973*yGreene_CountyCalhoun_County + 101.9914*yGreene_CountyWebster_County + 101.9994*yGrundy_CountyHardin_County + 101.9294*yGrundy_CountyMarshall_County + 101.9969*yGuthrie_CountyAudubon_County + 102.0*yGuthrie_CountyCarroll_County + 101.9995*yGuthrie_CountyDallas_County + 102.0*yGuthrie_CountyGreene_County + 101.9988*yHamilton_CountyHardin_County + 101.995*yHamilton_CountyStory_County + 101.9876*yHamilton_CountyWebster_County + 101.9898*yHamilton_CountyWright_County + 101.9979*yHancock_CountyKossuth_County + 101.9961*yHancock_CountyWinnebago_County + 101.9745*yHancock_CountyWright_County + 101.9609*yHardin_CountyMarshall_County + 101.9986*yHarrison_CountyMonona_County + 101.9914*yHenry_CountyJefferson_County + 101.9999*yHenry_CountyLee_County + 101.9902*yHenry_CountyLouisa_County + 101.9957*yHenry_CountyWashington_County + 101.96*yIda_CountyWoodbury_County + 101.9823*yIowa_CountyJohnson_County + 102.0*yIowa_CountyKeokuk_County + 101.9985*yIowa_CountyPoweshiek_County + 102.0*yIowa_CountyWashington_County + 101.9986*yJasper_CountyMahaska_County + 101.9994*yJasper_CountyMarion_County + 101.9961*yJefferson_CountyKeokuk_County + 101.9968*yJefferson_CountyWashington_County + 101.9751*yJohnson_CountyLouisa_County + 101.9838*yJohnson_CountyMuscatine_County + 101.9944*yJohnson_CountyWashington_County + 101.9985*yJones_CountyDubuque_County + 101.9996*yJones_CountyJackson_County + 101.999*yKeokuk_CountyMahaska_County + 101.9991*yKeokuk_CountyPoweshiek_County + 101.9998*yKossuth_CountyHumboldt_County + 102.0*yKossuth_CountyWinnebago_County + 101.9844*yLinn_CountyCedar_County + 101.9795*yLinn_CountyDelaware_County + 101.9843*yLinn_CountyJohnson_County + 101.998*yLinn_CountyJones_County + 101.9872*yLouisa_CountyWashington_County + 101.9981*yLucas_CountyMarion_County + 101.999*yLucas_CountyWarren_County + 101.9866*yLyon_CountySioux_County + 101.997*yMadison_CountyClarke_County + 102.0*yMadison_CountyDallas_County + 101.9988*yMadison_CountyUnion_County + 101.9993*yMadison_CountyWarren_County + 101.9998*yMahaska_CountyMarion_County + 101.9342*yMarshall_CountyJasper_County + 101.9998*yMitchell_CountyHoward_County + 101.9974*yMitchell_CountyWorth_County + 101.9955*yMonroe_CountyLucas_County + 101.9999*yMonroe_CountyMahaska_County + 101.9999*yMonroe_CountyMarion_County + 101.9707*yMonroe_CountyWapello_County + 101.9999*yMontgomery_CountyMills_County + 101.9997*yMontgomery_CountyPage_County + 101.987*yMontgomery_CountyPottawattamie_County + 101.9655*yMuscatine_CountyLouisa_County + 101.971*yMuscatine_CountyScott_County + 101.9939*yO'Brien_CountyOsceola_County + 101.9977*yO'Brien_CountySioux_County + 101.9996*yOsceola_CountyLyon_County + 101.9974*yPalo_Alto_CountyEmmet_County + 101.9999*yPalo_Alto_CountyKossuth_County + 101.9886*yPlymouth_CountySioux_County + 101.923*yPlymouth_CountyWoodbury_County + 101.9996*yPocahontas_CountyCalhoun_County + 101.9985*yPocahontas_CountyHumboldt_County + 101.9967*yPocahontas_CountyPalo_Alto_County + 101.958*yPolk_CountyJasper_County + 101.95*yPolk_CountyMarion_County + 101.9984*yPolk_CountyStory_County + 101.9992*yPolk_CountyWarren_County + 101.9987*yPottawattamie_CountyHarrison_County + 101.9909*yPottawattamie_CountyMills_County + 101.9991*yPoweshiek_CountyJasper_County + 101.9977*yPoweshiek_CountyMahaska_County + 101.9973*ySac_CountyCalhoun_County + 101.9993*ySac_CountyCrawford_County + 101.9999*ySac_CountyIda_County + 101.9998*yShelby_CountyCrawford_County + 101.999*yShelby_CountyHarrison_County + 101.9998*yShelby_CountyPottawattamie_County + 101.9833*yStory_CountyHardin_County + 101.9781*yStory_CountyJasper_County + 101.9831*yStory_CountyMarshall_County + 101.9726*yTama_CountyGrundy_County + 101.9661*yTama_CountyMarshall_County + 101.9724*yTama_CountyPoweshiek_County + 101.9997*yTaylor_CountyPage_County + 101.9983*yTaylor_CountyRinggold_County + 101.9997*yUnion_CountyClarke_County + 101.9997*yUnion_CountyRinggold_County + 101.9947*yVan_Buren_CountyHenry_County + 101.9998*yVan_Buren_CountyJefferson_County + 102.0*yVan_Buren_CountyLee_County + 101.9875*yWapello_CountyJefferson_County + 101.971*yWapello_CountyKeokuk_County + 101.9643*yWapello_CountyMahaska_County + 101.998*yWarren_CountyMarion_County + 101.9968*yWashington_CountyKeokuk_County + 101.9941*yWayne_CountyDecatur_County + 101.9997*yWayne_CountyLucas_County + 101.9988*yWebster_CountyCalhoun_County + 101.9913*yWebster_CountyHumboldt_County + 101.9941*yWebster_CountyPocahontas_County + 101.9742*yWebster_CountyWright_County + 101.9975*yWinneshiek_CountyChickasaw_County + 101.9999*yWinneshiek_CountyFayette_County + 101.9993*yWinneshiek_CountyHoward_County + 101.933*yWoodbury_CountyMonona_County + 101.9999*yWorth_CountyWinnebago_County + 101.9682*yWright_CountyHumboldt_County + 0.0
+SUBJECT TO
+_C1: xAdair_County - xAdams_County - yAdair_CountyAdams_County = 0
+
+_C2: xAdair_County - xCass_County - yAdair_CountyCass_County = 0
+
+_C3: xAdair_County - xGuthrie_County - yAdair_CountyGuthrie_County = 0
+
+_C4: xAdair_County - xMadison_County - yAdair_CountyMadison_County = 0
+
+_C5: xAdair_County - xUnion_County - yAdair_CountyUnion_County = 0
+
+_C6: xAdams_County - xCass_County - yAdams_CountyCass_County = 0
+
+_C7: xAdams_County - xMontgomery_County - yAdams_CountyMontgomery_County = 0
+
+_C8: xAdams_County - xTaylor_County - yAdams_CountyTaylor_County = 0
+
+_C9: xAdams_County - xUnion_County - yAdams_CountyUnion_County = 0
+
+_C10: - xAudubon_County + xCass_County - yCass_CountyAudubon_County = 0
+
+_C11: xCass_County - xMontgomery_County - yCass_CountyMontgomery_County = 0
+
+_C12: xCass_County - xPottawattamie_County - yCass_CountyPottawattamie_County
+ = 0
+
+_C13: xCass_County - xShelby_County - yCass_CountyShelby_County = 0
+
+_C14: - xAudubon_County + xGuthrie_County - yGuthrie_CountyAudubon_County = 0
+
+_C15: - xCarroll_County + xGuthrie_County - yGuthrie_CountyCarroll_County = 0
+
+_C16: - xDallas_County + xGuthrie_County - yGuthrie_CountyDallas_County = 0
+
+_C17: - xGreene_County + xGuthrie_County - yGuthrie_CountyGreene_County = 0
+
+_C18: - xClarke_County + xMadison_County - yMadison_CountyClarke_County = 0
+
+_C19: - xDallas_County + xMadison_County - yMadison_CountyDallas_County = 0
+
+_C20: xMadison_County - xUnion_County - yMadison_CountyUnion_County = 0
+
+_C21: xMadison_County - xWarren_County - yMadison_CountyWarren_County = 0
+
+_C22: - xClarke_County + xUnion_County - yUnion_CountyClarke_County = 0
+
+_C23: - xRinggold_County + xUnion_County - yUnion_CountyRinggold_County = 0
+
+_C24: - xMills_County + xMontgomery_County - yMontgomery_CountyMills_County
+ = 0
+
+_C25: xMontgomery_County - xPage_County - yMontgomery_CountyPage_County = 0
+
+_C26: xMontgomery_County - xPottawattamie_County
+ - yMontgomery_CountyPottawattamie_County = 0
+
+_C27: - xPage_County + xTaylor_County - yTaylor_CountyPage_County = 0
+
+_C28: - xRinggold_County + xTaylor_County - yTaylor_CountyRinggold_County = 0
+
+_C29: xAllamakee_County - xClayton_County - yAllamakee_CountyClayton_County
+ = 0
+
+_C30: xAllamakee_County - xWinneshiek_County
+ - yAllamakee_CountyWinneshiek_County = 0
+
+_C31: xClayton_County - xDelaware_County - yClayton_CountyDelaware_County = 0
+
+_C32: xClayton_County - xDubuque_County - yClayton_CountyDubuque_County = 0
+
+_C33: xClayton_County - xFayette_County - yClayton_CountyFayette_County = 0
+
+_C34: - xChickasaw_County + xWinneshiek_County
+ - yWinneshiek_CountyChickasaw_County = 0
+
+_C35: - xFayette_County + xWinneshiek_County
+ - yWinneshiek_CountyFayette_County = 0
+
+_C36: - xHoward_County + xWinneshiek_County - yWinneshiek_CountyHoward_County
+ = 0
+
+_C37: xAppanoose_County - xDavis_County - yAppanoose_CountyDavis_County = 0
+
+_C38: xAppanoose_County - xMonroe_County - yAppanoose_CountyMonroe_County = 0
+
+_C39: xAppanoose_County - xWayne_County - yAppanoose_CountyWayne_County = 0
+
+_C40: xDavis_County - xVan_Buren_County - yDavis_CountyVan_Buren_County = 0
+
+_C41: xDavis_County - xWapello_County - yDavis_CountyWapello_County = 0
+
+_C42: - xLucas_County + xMonroe_County - yMonroe_CountyLucas_County = 0
+
+_C43: - xMahaska_County + xMonroe_County - yMonroe_CountyMahaska_County = 0
+
+_C44: - xMarion_County + xMonroe_County - yMonroe_CountyMarion_County = 0
+
+_C45: xMonroe_County - xWapello_County - yMonroe_CountyWapello_County = 0
+
+_C46: - xDecatur_County + xWayne_County - yWayne_CountyDecatur_County = 0
+
+_C47: - xLucas_County + xWayne_County - yWayne_CountyLucas_County = 0
+
+_C48: xAudubon_County - xCarroll_County - yAudubon_CountyCarroll_County = 0
+
+_C49: xAudubon_County - xShelby_County - yAudubon_CountyShelby_County = 0
+
+_C50: - xCalhoun_County + xCarroll_County - yCarroll_CountyCalhoun_County = 0
+
+_C51: xCarroll_County - xCrawford_County - yCarroll_CountyCrawford_County = 0
+
+_C52: xCarroll_County - xGreene_County - yCarroll_CountyGreene_County = 0
+
+_C53: xCarroll_County - xSac_County - yCarroll_CountySac_County = 0
+
+_C54: - xCrawford_County + xShelby_County - yShelby_CountyCrawford_County = 0
+
+_C55: - xHarrison_County + xShelby_County - yShelby_CountyHarrison_County = 0
+
+_C56: - xPottawattamie_County + xShelby_County
+ - yShelby_CountyPottawattamie_County = 0
+
+_C57: xBenton_County - xBlack_Hawk_County - yBenton_CountyBlack_Hawk_County
+ = 0
+
+_C58: xBenton_County - xBuchanan_County - yBenton_CountyBuchanan_County = 0
+
+_C59: xBenton_County - xIowa_County - yBenton_CountyIowa_County = 0
+
+_C60: xBenton_County - xLinn_County - yBenton_CountyLinn_County = 0
+
+_C61: xBenton_County - xTama_County - yBenton_CountyTama_County = 0
+
+_C62: xBlack_Hawk_County - xBremer_County - yBlack_Hawk_CountyBremer_County
+ = 0
+
+_C63: xBlack_Hawk_County - xBuchanan_County
+ - yBlack_Hawk_CountyBuchanan_County = 0
+
+_C64: xBlack_Hawk_County - xButler_County - yBlack_Hawk_CountyButler_County
+ = 0
+
+_C65: xBlack_Hawk_County - xGrundy_County - yBlack_Hawk_CountyGrundy_County
+ = 0
+
+_C66: xBlack_Hawk_County - xTama_County - yBlack_Hawk_CountyTama_County = 0
+
+_C67: xBuchanan_County - xDelaware_County - yBuchanan_CountyDelaware_County
+ = 0
+
+_C68: xBuchanan_County - xFayette_County - yBuchanan_CountyFayette_County = 0
+
+_C69: xBuchanan_County - xLinn_County - yBuchanan_CountyLinn_County = 0
+
+_C70: xIowa_County - xJohnson_County - yIowa_CountyJohnson_County = 0
+
+_C71: xIowa_County - xKeokuk_County - yIowa_CountyKeokuk_County = 0
+
+_C72: xIowa_County - xPoweshiek_County - yIowa_CountyPoweshiek_County = 0
+
+_C73: xIowa_County - xWashington_County - yIowa_CountyWashington_County = 0
+
+_C74: - xCedar_County + xLinn_County - yLinn_CountyCedar_County = 0
+
+_C75: - xDelaware_County + xLinn_County - yLinn_CountyDelaware_County = 0
+
+_C76: - xJohnson_County + xLinn_County - yLinn_CountyJohnson_County = 0
+
+_C77: - xJones_County + xLinn_County - yLinn_CountyJones_County = 0
+
+_C78: - xGrundy_County + xTama_County - yTama_CountyGrundy_County = 0
+
+_C79: - xMarshall_County + xTama_County - yTama_CountyMarshall_County = 0
+
+_C80: - xPoweshiek_County + xTama_County - yTama_CountyPoweshiek_County = 0
+
+_C81: xBremer_County - xButler_County - yBremer_CountyButler_County = 0
+
+_C82: xBremer_County - xChickasaw_County - yBremer_CountyChickasaw_County = 0
+
+_C83: xBremer_County - xFayette_County - yBremer_CountyFayette_County = 0
+
+_C84: xButler_County - xFloyd_County - yButler_CountyFloyd_County = 0
+
+_C85: xButler_County - xFranklin_County - yButler_CountyFranklin_County = 0
+
+_C86: xButler_County - xGrundy_County - yButler_CountyGrundy_County = 0
+
+_C87: xGrundy_County - xHardin_County - yGrundy_CountyHardin_County = 0
+
+_C88: xGrundy_County - xMarshall_County - yGrundy_CountyMarshall_County = 0
+
+_C89: xBoone_County - xDallas_County - yBoone_CountyDallas_County = 0
+
+_C90: xBoone_County - xGreene_County - yBoone_CountyGreene_County = 0
+
+_C91: xBoone_County - xHamilton_County - yBoone_CountyHamilton_County = 0
+
+_C92: xBoone_County - xPolk_County - yBoone_CountyPolk_County = 0
+
+_C93: xBoone_County - xStory_County - yBoone_CountyStory_County = 0
+
+_C94: xBoone_County - xWebster_County - yBoone_CountyWebster_County = 0
+
+_C95: xDallas_County - xGreene_County - yDallas_CountyGreene_County = 0
+
+_C96: xDallas_County - xPolk_County - yDallas_CountyPolk_County = 0
+
+_C97: - xCalhoun_County + xGreene_County - yGreene_CountyCalhoun_County = 0
+
+_C98: xGreene_County - xWebster_County - yGreene_CountyWebster_County = 0
+
+_C99: xHamilton_County - xHardin_County - yHamilton_CountyHardin_County = 0
+
+_C100: xHamilton_County - xStory_County - yHamilton_CountyStory_County = 0
+
+_C101: xHamilton_County - xWebster_County - yHamilton_CountyWebster_County = 0
+
+_C102: xHamilton_County - xWright_County - yHamilton_CountyWright_County = 0
+
+_C103: - xJasper_County + xPolk_County - yPolk_CountyJasper_County = 0
+
+_C104: - xMarion_County + xPolk_County - yPolk_CountyMarion_County = 0
+
+_C105: xPolk_County - xStory_County - yPolk_CountyStory_County = 0
+
+_C106: xPolk_County - xWarren_County - yPolk_CountyWarren_County = 0
+
+_C107: - xHardin_County + xStory_County - yStory_CountyHardin_County = 0
+
+_C108: - xJasper_County + xStory_County - yStory_CountyJasper_County = 0
+
+_C109: - xMarshall_County + xStory_County - yStory_CountyMarshall_County = 0
+
+_C110: - xCalhoun_County + xWebster_County - yWebster_CountyCalhoun_County = 0
+
+_C111: - xHumboldt_County + xWebster_County - yWebster_CountyHumboldt_County
+ = 0
+
+_C112: - xPocahontas_County + xWebster_County
+ - yWebster_CountyPocahontas_County = 0
+
+_C113: xWebster_County - xWright_County - yWebster_CountyWright_County = 0
+
+_C114: xChickasaw_County - xFayette_County - yChickasaw_CountyFayette_County
+ = 0
+
+_C115: xChickasaw_County - xFloyd_County - yChickasaw_CountyFloyd_County = 0
+
+_C116: xChickasaw_County - xHoward_County - yChickasaw_CountyHoward_County = 0
+
+_C117: xDelaware_County - xDubuque_County - yDelaware_CountyDubuque_County = 0
+
+_C118: xDelaware_County - xJones_County - yDelaware_CountyJones_County = 0
+
+_C119: xBuena_Vista_County - xCherokee_County
+ - yBuena_Vista_CountyCherokee_County = 0
+
+_C120: xBuena_Vista_County - xClay_County - yBuena_Vista_CountyClay_County = 0
+
+_C121: xBuena_Vista_County - xPocahontas_County
+ - yBuena_Vista_CountyPocahontas_County = 0
+
+_C122: xBuena_Vista_County - xSac_County - yBuena_Vista_CountySac_County = 0
+
+_C123: xCherokee_County - xIda_County - yCherokee_CountyIda_County = 0
+
+_C124: xCherokee_County - xO'Brien_County - yCherokee_CountyO'Brien_County = 0
+
+_C125: xCherokee_County - xPlymouth_County - yCherokee_CountyPlymouth_County
+ = 0
+
+_C126: xCherokee_County - xWoodbury_County - yCherokee_CountyWoodbury_County
+ = 0
+
+_C127: xClay_County - xDickinson_County - yClay_CountyDickinson_County = 0
+
+_C128: xClay_County - xO'Brien_County - yClay_CountyO'Brien_County = 0
+
+_C129: xClay_County - xPalo_Alto_County - yClay_CountyPalo_Alto_County = 0
+
+_C130: - xCalhoun_County + xPocahontas_County
+ - yPocahontas_CountyCalhoun_County = 0
+
+_C131: - xHumboldt_County + xPocahontas_County
+ - yPocahontas_CountyHumboldt_County = 0
+
+_C132: - xPalo_Alto_County + xPocahontas_County
+ - yPocahontas_CountyPalo_Alto_County = 0
+
+_C133: - xCalhoun_County + xSac_County - ySac_CountyCalhoun_County = 0
+
+_C134: - xCrawford_County + xSac_County - ySac_CountyCrawford_County = 0
+
+_C135: - xIda_County + xSac_County - ySac_CountyIda_County = 0
+
+_C136: - xCerro_Gordo_County + xFloyd_County - yFloyd_CountyCerro_Gordo_County
+ = 0
+
+_C137: xFloyd_County - xMitchell_County - yFloyd_CountyMitchell_County = 0
+
+_C138: - xCerro_Gordo_County + xFranklin_County
+ - yFranklin_CountyCerro_Gordo_County = 0
+
+_C139: xFranklin_County - xHardin_County - yFranklin_CountyHardin_County = 0
+
+_C140: xFranklin_County - xWright_County - yFranklin_CountyWright_County = 0
+
+_C141: xCrawford_County - xHarrison_County - yCrawford_CountyHarrison_County
+ = 0
+
+_C142: xCrawford_County - xIda_County - yCrawford_CountyIda_County = 0
+
+_C143: xCrawford_County - xMonona_County - yCrawford_CountyMonona_County = 0
+
+_C144: - xHarrison_County + xPottawattamie_County
+ - yPottawattamie_CountyHarrison_County = 0
+
+_C145: - xMills_County + xPottawattamie_County
+ - yPottawattamie_CountyMills_County = 0
+
+_C146: xCedar_County - xClinton_County - yCedar_CountyClinton_County = 0
+
+_C147: xCedar_County - xJohnson_County - yCedar_CountyJohnson_County = 0
+
+_C148: xCedar_County - xJones_County - yCedar_CountyJones_County = 0
+
+_C149: xCedar_County - xMuscatine_County - yCedar_CountyMuscatine_County = 0
+
+_C150: xCedar_County - xScott_County - yCedar_CountyScott_County = 0
+
+_C151: xClinton_County - xJackson_County - yClinton_CountyJackson_County = 0
+
+_C152: xClinton_County - xJones_County - yClinton_CountyJones_County = 0
+
+_C153: xClinton_County - xScott_County - yClinton_CountyScott_County = 0
+
+_C154: xJohnson_County - xLouisa_County - yJohnson_CountyLouisa_County = 0
+
+_C155: xJohnson_County - xMuscatine_County - yJohnson_CountyMuscatine_County
+ = 0
+
+_C156: xJohnson_County - xWashington_County - yJohnson_CountyWashington_County
+ = 0
+
+_C157: - xDubuque_County + xJones_County - yJones_CountyDubuque_County = 0
+
+_C158: - xJackson_County + xJones_County - yJones_CountyJackson_County = 0
+
+_C159: - xLouisa_County + xMuscatine_County - yMuscatine_CountyLouisa_County
+ = 0
+
+_C160: xMuscatine_County - xScott_County - yMuscatine_CountyScott_County = 0
+
+_C161: xCerro_Gordo_County - xHancock_County
+ - yCerro_Gordo_CountyHancock_County = 0
+
+_C162: xCerro_Gordo_County - xMitchell_County
+ - yCerro_Gordo_CountyMitchell_County = 0
+
+_C163: xCerro_Gordo_County - xWorth_County - yCerro_Gordo_CountyWorth_County
+ = 0
+
+_C164: xHancock_County - xKossuth_County - yHancock_CountyKossuth_County = 0
+
+_C165: xHancock_County - xWinnebago_County - yHancock_CountyWinnebago_County
+ = 0
+
+_C166: xHancock_County - xWright_County - yHancock_CountyWright_County = 0
+
+_C167: - xHoward_County + xMitchell_County - yMitchell_CountyHoward_County = 0
+
+_C168: xMitchell_County - xWorth_County - yMitchell_CountyWorth_County = 0
+
+_C169: - xWinnebago_County + xWorth_County - yWorth_CountyWinnebago_County = 0
+
+_C170: xIda_County - xWoodbury_County - yIda_CountyWoodbury_County = 0
+
+_C171: xO'Brien_County - xOsceola_County - yO'Brien_CountyOsceola_County = 0
+
+_C172: xO'Brien_County - xSioux_County - yO'Brien_CountySioux_County = 0
+
+_C173: xPlymouth_County - xSioux_County - yPlymouth_CountySioux_County = 0
+
+_C174: xPlymouth_County - xWoodbury_County - yPlymouth_CountyWoodbury_County
+ = 0
+
+_C175: - xMonona_County + xWoodbury_County - yWoodbury_CountyMonona_County = 0
+
+_C176: xClarke_County - xDecatur_County - yClarke_CountyDecatur_County = 0
+
+_C177: xClarke_County - xLucas_County - yClarke_CountyLucas_County = 0
+
+_C178: xClarke_County - xWarren_County - yClarke_CountyWarren_County = 0
+
+_C179: xDecatur_County - xRinggold_County - yDecatur_CountyRinggold_County = 0
+
+_C180: xLucas_County - xMarion_County - yLucas_CountyMarion_County = 0
+
+_C181: xLucas_County - xWarren_County - yLucas_CountyWarren_County = 0
+
+_C182: - xMarion_County + xWarren_County - yWarren_CountyMarion_County = 0
+
+_C183: xDickinson_County - xEmmet_County - yDickinson_CountyEmmet_County = 0
+
+_C184: xDickinson_County - xOsceola_County - yDickinson_CountyOsceola_County
+ = 0
+
+_C185: - xEmmet_County + xPalo_Alto_County - yPalo_Alto_CountyEmmet_County = 0
+
+_C186: - xKossuth_County + xPalo_Alto_County - yPalo_Alto_CountyKossuth_County
+ = 0
+
+_C187: xDubuque_County - xJackson_County - yDubuque_CountyJackson_County = 0
+
+_C188: xHarrison_County - xMonona_County - yHarrison_CountyMonona_County = 0
+
+_C189: - xHenry_County + xVan_Buren_County - yVan_Buren_CountyHenry_County = 0
+
+_C190: - xJefferson_County + xVan_Buren_County
+ - yVan_Buren_CountyJefferson_County = 0
+
+_C191: - xLee_County + xVan_Buren_County - yVan_Buren_CountyLee_County = 0
+
+_C192: - xJefferson_County + xWapello_County - yWapello_CountyJefferson_County
+ = 0
+
+_C193: - xKeokuk_County + xWapello_County - yWapello_CountyKeokuk_County = 0
+
+_C194: - xMahaska_County + xWapello_County - yWapello_CountyMahaska_County = 0
+
+_C195: xDes_Moines_County - xHenry_County - yDes_Moines_CountyHenry_County = 0
+
+_C196: xDes_Moines_County - xLee_County - yDes_Moines_CountyLee_County = 0
+
+_C197: xDes_Moines_County - xLouisa_County - yDes_Moines_CountyLouisa_County
+ = 0
+
+_C198: xHenry_County - xJefferson_County - yHenry_CountyJefferson_County = 0
+
+_C199: xHenry_County - xLee_County - yHenry_CountyLee_County = 0
+
+_C200: xHenry_County - xLouisa_County - yHenry_CountyLouisa_County = 0
+
+_C201: xHenry_County - xWashington_County - yHenry_CountyWashington_County = 0
+
+_C202: xLouisa_County - xWashington_County - yLouisa_CountyWashington_County
+ = 0
+
+_C203: xEmmet_County - xKossuth_County - yEmmet_CountyKossuth_County = 0
+
+_C204: - xLyon_County + xOsceola_County - yOsceola_CountyLyon_County = 0
+
+_C205: - xHumboldt_County + xKossuth_County - yKossuth_CountyHumboldt_County
+ = 0
+
+_C206: xKossuth_County - xWinnebago_County - yKossuth_CountyWinnebago_County
+ = 0
+
+_C207: xHardin_County - xMarshall_County - yHardin_CountyMarshall_County = 0
+
+_C208: - xHumboldt_County + xWright_County - yWright_CountyHumboldt_County = 0
+
+_C209: xFremont_County - xMills_County - yFremont_CountyMills_County = 0
+
+_C210: xFremont_County - xPage_County - yFremont_CountyPage_County = 0
+
+_C211: - xJasper_County + xMarshall_County - yMarshall_CountyJasper_County = 0
+
+_C212: xJefferson_County - xKeokuk_County - yJefferson_CountyKeokuk_County = 0
+
+_C213: xJefferson_County - xWashington_County
+ - yJefferson_CountyWashington_County = 0
+
+_C214: - xKeokuk_County + xWashington_County - yWashington_CountyKeokuk_County
+ = 0
+
+_C215: xKeokuk_County - xMahaska_County - yKeokuk_CountyMahaska_County = 0
+
+_C216: xKeokuk_County - xPoweshiek_County - yKeokuk_CountyPoweshiek_County = 0
+
+_C217: - xJasper_County + xPoweshiek_County - yPoweshiek_CountyJasper_County
+ = 0
+
+_C218: - xMahaska_County + xPoweshiek_County - yPoweshiek_CountyMahaska_County
+ = 0
+
+_C219: xJasper_County - xMahaska_County - yJasper_CountyMahaska_County = 0
+
+_C220: xJasper_County - xMarion_County - yJasper_CountyMarion_County = 0
+
+_C221: xMahaska_County - xMarion_County - yMahaska_CountyMarion_County = 0
+
+_C222: xLyon_County - xSioux_County - yLyon_CountySioux_County = 0
+
+_C223: xAdair_County - zAdair_County0 = 0
+
+_C224: xAdair_County - zAdair_County1 = 1
+
+_C225: xAdams_County - zAdams_County0 = 0
+
+_C226: xAdams_County - zAdams_County1 = 1
+
+_C227: xCass_County - zCass_County0 = 0
+
+_C228: xCass_County - zCass_County1 = 1
+
+_C229: xGuthrie_County - zGuthrie_County0 = 0
+
+_C230: xGuthrie_County - zGuthrie_County1 = 1
+
+_C231: xMadison_County - zMadison_County0 = 0
+
+_C232: xMadison_County - zMadison_County1 = 1
+
+_C233: xUnion_County - zUnion_County0 = 0
+
+_C234: xUnion_County - zUnion_County1 = 1
+
+_C235: xMontgomery_County - zMontgomery_County0 = 0
+
+_C236: xMontgomery_County - zMontgomery_County1 = 1
+
+_C237: xTaylor_County - zTaylor_County0 = 0
+
+_C238: xTaylor_County - zTaylor_County1 = 1
+
+_C239: xAllamakee_County - zAllamakee_County0 = 0
+
+_C240: xAllamakee_County - zAllamakee_County1 = 1
+
+_C241: xClayton_County - zClayton_County0 = 0
+
+_C242: xClayton_County - zClayton_County1 = 1
+
+_C243: xWinneshiek_County - zWinneshiek_County0 = 0
+
+_C244: xWinneshiek_County - zWinneshiek_County1 = 1
+
+_C245: xAppanoose_County - zAppanoose_County0 = 0
+
+_C246: xAppanoose_County - zAppanoose_County1 = 1
+
+_C247: xDavis_County - zDavis_County0 = 0
+
+_C248: xDavis_County - zDavis_County1 = 1
+
+_C249: xMonroe_County - zMonroe_County0 = 0
+
+_C250: xMonroe_County - zMonroe_County1 = 1
+
+_C251: xWayne_County - zWayne_County0 = 0
+
+_C252: xWayne_County - zWayne_County1 = 1
+
+_C253: xAudubon_County - zAudubon_County0 = 0
+
+_C254: xAudubon_County - zAudubon_County1 = 1
+
+_C255: xCarroll_County - zCarroll_County0 = 0
+
+_C256: xCarroll_County - zCarroll_County1 = 1
+
+_C257: xShelby_County - zShelby_County0 = 0
+
+_C258: xShelby_County - zShelby_County1 = 1
+
+_C259: xBenton_County - zBenton_County0 = 0
+
+_C260: xBenton_County - zBenton_County1 = 1
+
+_C261: xBlack_Hawk_County - zBlack_Hawk_County0 = 0
+
+_C262: xBlack_Hawk_County - zBlack_Hawk_County1 = 1
+
+_C263: xBuchanan_County - zBuchanan_County0 = 0
+
+_C264: xBuchanan_County - zBuchanan_County1 = 1
+
+_C265: xIowa_County - zIowa_County0 = 0
+
+_C266: xIowa_County - zIowa_County1 = 1
+
+_C267: xLinn_County - zLinn_County0 = 0
+
+_C268: xLinn_County - zLinn_County1 = 1
+
+_C269: xTama_County - zTama_County0 = 0
+
+_C270: xTama_County - zTama_County1 = 1
+
+_C271: xBremer_County - zBremer_County0 = 0
+
+_C272: xBremer_County - zBremer_County1 = 1
+
+_C273: xButler_County - zButler_County0 = 0
+
+_C274: xButler_County - zButler_County1 = 1
+
+_C275: xGrundy_County - zGrundy_County0 = 0
+
+_C276: xGrundy_County - zGrundy_County1 = 1
+
+_C277: xBoone_County - zBoone_County0 = 0
+
+_C278: xBoone_County - zBoone_County1 = 1
+
+_C279: xDallas_County - zDallas_County0 = 0
+
+_C280: xDallas_County - zDallas_County1 = 1
+
+_C281: xGreene_County - zGreene_County0 = 0
+
+_C282: xGreene_County - zGreene_County1 = 1
+
+_C283: xHamilton_County - zHamilton_County0 = 0
+
+_C284: xHamilton_County - zHamilton_County1 = 1
+
+_C285: xPolk_County - zPolk_County0 = 0
+
+_C286: xPolk_County - zPolk_County1 = 1
+
+_C287: xStory_County - zStory_County0 = 0
+
+_C288: xStory_County - zStory_County1 = 1
+
+_C289: xWebster_County - zWebster_County0 = 0
+
+_C290: xWebster_County - zWebster_County1 = 1
+
+_C291: xChickasaw_County - zChickasaw_County0 = 0
+
+_C292: xChickasaw_County - zChickasaw_County1 = 1
+
+_C293: xFayette_County - zFayette_County0 = 0
+
+_C294: xFayette_County - zFayette_County1 = 1
+
+_C295: xDelaware_County - zDelaware_County0 = 0
+
+_C296: xDelaware_County - zDelaware_County1 = 1
+
+_C297: xBuena_Vista_County - zBuena_Vista_County0 = 0
+
+_C298: xBuena_Vista_County - zBuena_Vista_County1 = 1
+
+_C299: xCherokee_County - zCherokee_County0 = 0
+
+_C300: xCherokee_County - zCherokee_County1 = 1
+
+_C301: xClay_County - zClay_County0 = 0
+
+_C302: xClay_County - zClay_County1 = 1
+
+_C303: xPocahontas_County - zPocahontas_County0 = 0
+
+_C304: xPocahontas_County - zPocahontas_County1 = 1
+
+_C305: xSac_County - zSac_County0 = 0
+
+_C306: xSac_County - zSac_County1 = 1
+
+_C307: xFloyd_County - zFloyd_County0 = 0
+
+_C308: xFloyd_County - zFloyd_County1 = 1
+
+_C309: xFranklin_County - zFranklin_County0 = 0
+
+_C310: xFranklin_County - zFranklin_County1 = 1
+
+_C311: xCalhoun_County - zCalhoun_County0 = 0
+
+_C312: xCalhoun_County - zCalhoun_County1 = 1
+
+_C313: xCrawford_County - zCrawford_County0 = 0
+
+_C314: xCrawford_County - zCrawford_County1 = 1
+
+_C315: xPottawattamie_County - zPottawattamie_County0 = 0
+
+_C316: xPottawattamie_County - zPottawattamie_County1 = 1
+
+_C317: xCedar_County - zCedar_County0 = 0
+
+_C318: xCedar_County - zCedar_County1 = 1
+
+_C319: xClinton_County - zClinton_County0 = 0
+
+_C320: xClinton_County - zClinton_County1 = 1
+
+_C321: xJohnson_County - zJohnson_County0 = 0
+
+_C322: xJohnson_County - zJohnson_County1 = 1
+
+_C323: xJones_County - zJones_County0 = 0
+
+_C324: xJones_County - zJones_County1 = 1
+
+_C325: xMuscatine_County - zMuscatine_County0 = 0
+
+_C326: xMuscatine_County - zMuscatine_County1 = 1
+
+_C327: xScott_County - zScott_County0 = 0
+
+_C328: xScott_County - zScott_County1 = 1
+
+_C329: xCerro_Gordo_County - zCerro_Gordo_County0 = 0
+
+_C330: xCerro_Gordo_County - zCerro_Gordo_County1 = 1
+
+_C331: xHancock_County - zHancock_County0 = 0
+
+_C332: xHancock_County - zHancock_County1 = 1
+
+_C333: xMitchell_County - zMitchell_County0 = 0
+
+_C334: xMitchell_County - zMitchell_County1 = 1
+
+_C335: xWorth_County - zWorth_County0 = 0
+
+_C336: xWorth_County - zWorth_County1 = 1
+
+_C337: xIda_County - zIda_County0 = 0
+
+_C338: xIda_County - zIda_County1 = 1
+
+_C339: xO'Brien_County - zO'Brien_County0 = 0
+
+_C340: xO'Brien_County - zO'Brien_County1 = 1
+
+_C341: xPlymouth_County - zPlymouth_County0 = 0
+
+_C342: xPlymouth_County - zPlymouth_County1 = 1
+
+_C343: xWoodbury_County - zWoodbury_County0 = 0
+
+_C344: xWoodbury_County - zWoodbury_County1 = 1
+
+_C345: xHoward_County - zHoward_County0 = 0
+
+_C346: xHoward_County - zHoward_County1 = 1
+
+_C347: xClarke_County - zClarke_County0 = 0
+
+_C348: xClarke_County - zClarke_County1 = 1
+
+_C349: xDecatur_County - zDecatur_County0 = 0
+
+_C350: xDecatur_County - zDecatur_County1 = 1
+
+_C351: xLucas_County - zLucas_County0 = 0
+
+_C352: xLucas_County - zLucas_County1 = 1
+
+_C353: xWarren_County - zWarren_County0 = 0
+
+_C354: xWarren_County - zWarren_County1 = 1
+
+_C355: xDickinson_County - zDickinson_County0 = 0
+
+_C356: xDickinson_County - zDickinson_County1 = 1
+
+_C357: xPalo_Alto_County - zPalo_Alto_County0 = 0
+
+_C358: xPalo_Alto_County - zPalo_Alto_County1 = 1
+
+_C359: xDubuque_County - zDubuque_County0 = 0
+
+_C360: xDubuque_County - zDubuque_County1 = 1
+
+_C361: xJackson_County - zJackson_County0 = 0
+
+_C362: xJackson_County - zJackson_County1 = 1
+
+_C363: xHarrison_County - zHarrison_County0 = 0
+
+_C364: xHarrison_County - zHarrison_County1 = 1
+
+_C365: xMonona_County - zMonona_County0 = 0
+
+_C366: xMonona_County - zMonona_County1 = 1
+
+_C367: xVan_Buren_County - zVan_Buren_County0 = 0
+
+_C368: xVan_Buren_County - zVan_Buren_County1 = 1
+
+_C369: xWapello_County - zWapello_County0 = 0
+
+_C370: xWapello_County - zWapello_County1 = 1
+
+_C371: xRinggold_County - zRinggold_County0 = 0
+
+_C372: xRinggold_County - zRinggold_County1 = 1
+
+_C373: xDes_Moines_County - zDes_Moines_County0 = 0
+
+_C374: xDes_Moines_County - zDes_Moines_County1 = 1
+
+_C375: xHenry_County - zHenry_County0 = 0
+
+_C376: xHenry_County - zHenry_County1 = 1
+
+_C377: xLee_County - zLee_County0 = 0
+
+_C378: xLee_County - zLee_County1 = 1
+
+_C379: xLouisa_County - zLouisa_County0 = 0
+
+_C380: xLouisa_County - zLouisa_County1 = 1
+
+_C381: xEmmet_County - zEmmet_County0 = 0
+
+_C382: xEmmet_County - zEmmet_County1 = 1
+
+_C383: xOsceola_County - zOsceola_County0 = 0
+
+_C384: xOsceola_County - zOsceola_County1 = 1
+
+_C385: xKossuth_County - zKossuth_County0 = 0
+
+_C386: xKossuth_County - zKossuth_County1 = 1
+
+_C387: xHardin_County - zHardin_County0 = 0
+
+_C388: xHardin_County - zHardin_County1 = 1
+
+_C389: xWright_County - zWright_County0 = 0
+
+_C390: xWright_County - zWright_County1 = 1
+
+_C391: xFremont_County - zFremont_County0 = 0
+
+_C392: xFremont_County - zFremont_County1 = 1
+
+_C393: xMills_County - zMills_County0 = 0
+
+_C394: xMills_County - zMills_County1 = 1
+
+_C395: xPage_County - zPage_County0 = 0
+
+_C396: xPage_County - zPage_County1 = 1
+
+_C397: xMarshall_County - zMarshall_County0 = 0
+
+_C398: xMarshall_County - zMarshall_County1 = 1
+
+_C399: xWinnebago_County - zWinnebago_County0 = 0
+
+_C400: xWinnebago_County - zWinnebago_County1 = 1
+
+_C401: xJefferson_County - zJefferson_County0 = 0
+
+_C402: xJefferson_County - zJefferson_County1 = 1
+
+_C403: xWashington_County - zWashington_County0 = 0
+
+_C404: xWashington_County - zWashington_County1 = 1
+
+_C405: xHumboldt_County - zHumboldt_County0 = 0
+
+_C406: xHumboldt_County - zHumboldt_County1 = 1
+
+_C407: xKeokuk_County - zKeokuk_County0 = 0
+
+_C408: xKeokuk_County - zKeokuk_County1 = 1
+
+_C409: xPoweshiek_County - zPoweshiek_County0 = 0
+
+_C410: xPoweshiek_County - zPoweshiek_County1 = 1
+
+_C411: xJasper_County - zJasper_County0 = 0
+
+_C412: xJasper_County - zJasper_County1 = 1
+
+_C413: xMahaska_County - zMahaska_County0 = 0
+
+_C414: xMahaska_County - zMahaska_County1 = 1
+
+_C415: xMarion_County - zMarion_County0 = 0
+
+_C416: xMarion_County - zMarion_County1 = 1
+
+_C417: xLyon_County - zLyon_County0 = 0
+
+_C418: xLyon_County - zLyon_County1 = 1
+
+_C419: xSioux_County - zSioux_County0 = 0
+
+_C420: xSioux_County - zSioux_County1 = 1
+
+_C421: zAdair_County0 + zAdair_County1 = 1
+
+_C422: zAdams_County0 + zAdams_County1 = 1
+
+_C423: zCass_County0 + zCass_County1 = 1
+
+_C424: zGuthrie_County0 + zGuthrie_County1 = 1
+
+_C425: zMadison_County0 + zMadison_County1 = 1
+
+_C426: zUnion_County0 + zUnion_County1 = 1
+
+_C427: zMontgomery_County0 + zMontgomery_County1 = 1
+
+_C428: zTaylor_County0 + zTaylor_County1 = 1
+
+_C429: zAllamakee_County0 + zAllamakee_County1 = 1
+
+_C430: zClayton_County0 + zClayton_County1 = 1
+
+_C431: zWinneshiek_County0 + zWinneshiek_County1 = 1
+
+_C432: zAppanoose_County0 + zAppanoose_County1 = 1
+
+_C433: zDavis_County0 + zDavis_County1 = 1
+
+_C434: zMonroe_County0 + zMonroe_County1 = 1
+
+_C435: zWayne_County0 + zWayne_County1 = 1
+
+_C436: zAudubon_County0 + zAudubon_County1 = 1
+
+_C437: zCarroll_County0 + zCarroll_County1 = 1
+
+_C438: zShelby_County0 + zShelby_County1 = 1
+
+_C439: zBenton_County0 + zBenton_County1 = 1
+
+_C440: zBlack_Hawk_County0 + zBlack_Hawk_County1 = 1
+
+_C441: zBuchanan_County0 + zBuchanan_County1 = 1
+
+_C442: zIowa_County0 + zIowa_County1 = 1
+
+_C443: zLinn_County0 + zLinn_County1 = 1
+
+_C444: zTama_County0 + zTama_County1 = 1
+
+_C445: zBremer_County0 + zBremer_County1 = 1
+
+_C446: zButler_County0 + zButler_County1 = 1
+
+_C447: zGrundy_County0 + zGrundy_County1 = 1
+
+_C448: zBoone_County0 + zBoone_County1 = 1
+
+_C449: zDallas_County0 + zDallas_County1 = 1
+
+_C450: zGreene_County0 + zGreene_County1 = 1
+
+_C451: zHamilton_County0 + zHamilton_County1 = 1
+
+_C452: zPolk_County0 + zPolk_County1 = 1
+
+_C453: zStory_County0 + zStory_County1 = 1
+
+_C454: zWebster_County0 + zWebster_County1 = 1
+
+_C455: zChickasaw_County0 + zChickasaw_County1 = 1
+
+_C456: zFayette_County0 + zFayette_County1 = 1
+
+_C457: zDelaware_County0 + zDelaware_County1 = 1
+
+_C458: zBuena_Vista_County0 + zBuena_Vista_County1 = 1
+
+_C459: zCherokee_County0 + zCherokee_County1 = 1
+
+_C460: zClay_County0 + zClay_County1 = 1
+
+_C461: zPocahontas_County0 + zPocahontas_County1 = 1
+
+_C462: zSac_County0 + zSac_County1 = 1
+
+_C463: zFloyd_County0 + zFloyd_County1 = 1
+
+_C464: zFranklin_County0 + zFranklin_County1 = 1
+
+_C465: zCalhoun_County0 + zCalhoun_County1 = 1
+
+_C466: zCrawford_County0 + zCrawford_County1 = 1
+
+_C467: zPottawattamie_County0 + zPottawattamie_County1 = 1
+
+_C468: zCedar_County0 + zCedar_County1 = 1
+
+_C469: zClinton_County0 + zClinton_County1 = 1
+
+_C470: zJohnson_County0 + zJohnson_County1 = 1
+
+_C471: zJones_County0 + zJones_County1 = 1
+
+_C472: zMuscatine_County0 + zMuscatine_County1 = 1
+
+_C473: zScott_County0 + zScott_County1 = 1
+
+_C474: zCerro_Gordo_County0 + zCerro_Gordo_County1 = 1
+
+_C475: zHancock_County0 + zHancock_County1 = 1
+
+_C476: zMitchell_County0 + zMitchell_County1 = 1
+
+_C477: zWorth_County0 + zWorth_County1 = 1
+
+_C478: zIda_County0 + zIda_County1 = 1
+
+_C479: zO'Brien_County0 + zO'Brien_County1 = 1
+
+_C480: zPlymouth_County0 + zPlymouth_County1 = 1
+
+_C481: zWoodbury_County0 + zWoodbury_County1 = 1
+
+_C482: zHoward_County0 + zHoward_County1 = 1
+
+_C483: zClarke_County0 + zClarke_County1 = 1
+
+_C484: zDecatur_County0 + zDecatur_County1 = 1
+
+_C485: zLucas_County0 + zLucas_County1 = 1
+
+_C486: zWarren_County0 + zWarren_County1 = 1
+
+_C487: zDickinson_County0 + zDickinson_County1 = 1
+
+_C488: zPalo_Alto_County0 + zPalo_Alto_County1 = 1
+
+_C489: zDubuque_County0 + zDubuque_County1 = 1
+
+_C490: zJackson_County0 + zJackson_County1 = 1
+
+_C491: zHarrison_County0 + zHarrison_County1 = 1
+
+_C492: zMonona_County0 + zMonona_County1 = 1
+
+_C493: zVan_Buren_County0 + zVan_Buren_County1 = 1
+
+_C494: zWapello_County0 + zWapello_County1 = 1
+
+_C495: zRinggold_County0 + zRinggold_County1 = 1
+
+_C496: zDes_Moines_County0 + zDes_Moines_County1 = 1
+
+_C497: zHenry_County0 + zHenry_County1 = 1
+
+_C498: zLee_County0 + zLee_County1 = 1
+
+_C499: zLouisa_County0 + zLouisa_County1 = 1
+
+_C500: zEmmet_County0 + zEmmet_County1 = 1
+
+_C501: zOsceola_County0 + zOsceola_County1 = 1
+
+_C502: zKossuth_County0 + zKossuth_County1 = 1
+
+_C503: zHardin_County0 + zHardin_County1 = 1
+
+_C504: zWright_County0 + zWright_County1 = 1
+
+_C505: zFremont_County0 + zFremont_County1 = 1
+
+_C506: zMills_County0 + zMills_County1 = 1
+
+_C507: zPage_County0 + zPage_County1 = 1
+
+_C508: zMarshall_County0 + zMarshall_County1 = 1
+
+_C509: zWinnebago_County0 + zWinnebago_County1 = 1
+
+_C510: zJefferson_County0 + zJefferson_County1 = 1
+
+_C511: zWashington_County0 + zWashington_County1 = 1
+
+_C512: zHumboldt_County0 + zHumboldt_County1 = 1
+
+_C513: zKeokuk_County0 + zKeokuk_County1 = 1
+
+_C514: zPoweshiek_County0 + zPoweshiek_County1 = 1
+
+_C515: zJasper_County0 + zJasper_County1 = 1
+
+_C516: zMahaska_County0 + zMahaska_County1 = 1
+
+_C517: zMarion_County0 + zMarion_County1 = 1
+
+_C518: zLyon_County0 + zLyon_County1 = 1
+
+_C519: zSioux_County0 + zSioux_County1 = 1
+
+_C520: 7496 zAdair_County0 + 3704 zAdams_County0 + 24988 zAllamakee_County0
+ + 14334 zAppanoose_County0 + 18505 zAudubon_County0 + 12012 zBenton_County0
+ + 9748 zBlack_Hawk_County0 + 17488 zBoone_County0 + 99678 zBremer_County0
+ + 16384 zBuchanan_County0 + 12329 zBuena_Vista_County0 + 9110 zButler_County0
+ + 9469 zCalhoun_County0 + 43127 zCarroll_County0 + 14061 zCass_County0
+ + 16662 zCedar_County0 + 10033 zCerro_Gordo_County0 + 10623 zCherokee_County0
+ + 10019 zChickasaw_County0 + 33414 zClarke_County0 + 15039 zClay_County0
+ + 20565 zClayton_County0 + 19485 zClinton_County0 + 9597 zCrawford_County0
+ + 38910 zDallas_County0 + 9927 zDavis_County0 + 40105 zDecatur_County0
+ + 8771 zDelaware_County0 + 7078 zDes_Moines_County0 + 8751 zDickinson_County0
+ + 10330 zDubuque_County0 + 4663 zEmmet_County0 + 6605 zFayette_County0
+ + 14582 zFloyd_County0 + 20482 zFranklin_County0 + 98537 zFremont_County0
+ + 17703 zGreene_County0 + 7645 zGrundy_County0 + 12317 zGuthrie_County0
+ + 99266 zHamilton_County0 + 14828 zHancock_County0 + 11746 zHardin_County0
+ + 14182 zHarrison_County0 + 492401 zHenry_County0 + 22190 zHoward_County0
+ + 22565 zHumboldt_County0 + 10837 zIda_County0 + 17043 zIowa_County0
+ + 43235 zJackson_County0 + 10679 zJasper_County0 + 35437 zJefferson_County0
+ + 37813 zJohnson_County0 + 15663 zJones_County0 + 6497 zKeokuk_County0
+ + 174669 zKossuth_County0 + 93667 zLee_County0 + 46460 zLinn_County0
+ + 18662 zLouisa_County0 + 14484 zLucas_County0 + 7443 zLyon_County0
+ + 5674 zMadison_County0 + 20070 zMahaska_County0 + 105941 zMarion_County0
+ + 12138 zMarshall_County0 + 17135 zMills_County0 + 33555 zMitchell_County0
+ + 6192 zMonona_County0 + 20760 zMonroe_County0 + 131144 zMontgomery_County0
+ + 152854 zMuscatine_County0 + 8634 zO'Brien_County0 + 9814 zOsceola_County0
+ + 5896 zPage_County0 + 7577 zPalo_Alto_County0 + 11934 zPlymouth_County0
+ + 10795 zPocahontas_County0 + 9388 zPolk_County0
+ + 7005 zPottawattamie_County0 + 36999 zPoweshiek_County0
+ + 25698 zRinggold_County0 + 16878 zSac_County0 + 20646 zScott_County0
+ + 11658 zShelby_County0 + 12943 zSioux_County0 + 19509 zStory_County0
+ + 16525 zTama_County0 + 26715 zTaylor_County0 + 25575 zUnion_County0
+ + 15211 zVan_Buren_County0 + 8996 zWapello_County0 + 10565 zWarren_County0
+ + 52403 zWashington_County0 + 13127 zWayne_County0 + 15627 zWebster_County0
+ + 7203 zWinnebago_County0 + 20823 zWinneshiek_County0
+ + 16548 zWoodbury_County0 + 230299 zWorth_County0 + 35872 zWright_County0
+ <= 1674943.725
+
+_C521: 7496 zAdair_County0 + 3704 zAdams_County0 + 24988 zAllamakee_County0
+ + 14334 zAppanoose_County0 + 18505 zAudubon_County0 + 12012 zBenton_County0
+ + 9748 zBlack_Hawk_County0 + 17488 zBoone_County0 + 99678 zBremer_County0
+ + 16384 zBuchanan_County0 + 12329 zBuena_Vista_County0 + 9110 zButler_County0
+ + 9469 zCalhoun_County0 + 43127 zCarroll_County0 + 14061 zCass_County0
+ + 16662 zCedar_County0 + 10033 zCerro_Gordo_County0 + 10623 zCherokee_County0
+ + 10019 zChickasaw_County0 + 33414 zClarke_County0 + 15039 zClay_County0
+ + 20565 zClayton_County0 + 19485 zClinton_County0 + 9597 zCrawford_County0
+ + 38910 zDallas_County0 + 9927 zDavis_County0 + 40105 zDecatur_County0
+ + 8771 zDelaware_County0 + 7078 zDes_Moines_County0 + 8751 zDickinson_County0
+ + 10330 zDubuque_County0 + 4663 zEmmet_County0 + 6605 zFayette_County0
+ + 14582 zFloyd_County0 + 20482 zFranklin_County0 + 98537 zFremont_County0
+ + 17703 zGreene_County0 + 7645 zGrundy_County0 + 12317 zGuthrie_County0
+ + 99266 zHamilton_County0 + 14828 zHancock_County0 + 11746 zHardin_County0
+ + 14182 zHarrison_County0 + 492401 zHenry_County0 + 22190 zHoward_County0
+ + 22565 zHumboldt_County0 + 10837 zIda_County0 + 17043 zIowa_County0
+ + 43235 zJackson_County0 + 10679 zJasper_County0 + 35437 zJefferson_County0
+ + 37813 zJohnson_County0 + 15663 zJones_County0 + 6497 zKeokuk_County0
+ + 174669 zKossuth_County0 + 93667 zLee_County0 + 46460 zLinn_County0
+ + 18662 zLouisa_County0 + 14484 zLucas_County0 + 7443 zLyon_County0
+ + 5674 zMadison_County0 + 20070 zMahaska_County0 + 105941 zMarion_County0
+ + 12138 zMarshall_County0 + 17135 zMills_County0 + 33555 zMitchell_County0
+ + 6192 zMonona_County0 + 20760 zMonroe_County0 + 131144 zMontgomery_County0
+ + 152854 zMuscatine_County0 + 8634 zO'Brien_County0 + 9814 zOsceola_County0
+ + 5896 zPage_County0 + 7577 zPalo_Alto_County0 + 11934 zPlymouth_County0
+ + 10795 zPocahontas_County0 + 9388 zPolk_County0
+ + 7005 zPottawattamie_County0 + 36999 zPoweshiek_County0
+ + 25698 zRinggold_County0 + 16878 zSac_County0 + 20646 zScott_County0
+ + 11658 zShelby_County0 + 12943 zSioux_County0 + 19509 zStory_County0
+ + 16525 zTama_County0 + 26715 zTaylor_County0 + 25575 zUnion_County0
+ + 15211 zVan_Buren_County0 + 8996 zWapello_County0 + 10565 zWarren_County0
+ + 52403 zWashington_County0 + 13127 zWayne_County0 + 15627 zWebster_County0
+ + 7203 zWinnebago_County0 + 20823 zWinneshiek_County0
+ + 16548 zWoodbury_County0 + 230299 zWorth_County0 + 35872 zWright_County0
+ >= 1515425.275
+
+_C522: 7496 zAdair_County1 + 3704 zAdams_County1 + 24988 zAllamakee_County1
+ + 14334 zAppanoose_County1 + 18505 zAudubon_County1 + 12012 zBenton_County1
+ + 9748 zBlack_Hawk_County1 + 17488 zBoone_County1 + 99678 zBremer_County1
+ + 16384 zBuchanan_County1 + 12329 zBuena_Vista_County1 + 9110 zButler_County1
+ + 9469 zCalhoun_County1 + 43127 zCarroll_County1 + 14061 zCass_County1
+ + 16662 zCedar_County1 + 10033 zCerro_Gordo_County1 + 10623 zCherokee_County1
+ + 10019 zChickasaw_County1 + 33414 zClarke_County1 + 15039 zClay_County1
+ + 20565 zClayton_County1 + 19485 zClinton_County1 + 9597 zCrawford_County1
+ + 38910 zDallas_County1 + 9927 zDavis_County1 + 40105 zDecatur_County1
+ + 8771 zDelaware_County1 + 7078 zDes_Moines_County1 + 8751 zDickinson_County1
+ + 10330 zDubuque_County1 + 4663 zEmmet_County1 + 6605 zFayette_County1
+ + 14582 zFloyd_County1 + 20482 zFranklin_County1 + 98537 zFremont_County1
+ + 17703 zGreene_County1 + 7645 zGrundy_County1 + 12317 zGuthrie_County1
+ + 99266 zHamilton_County1 + 14828 zHancock_County1 + 11746 zHardin_County1
+ + 14182 zHarrison_County1 + 492401 zHenry_County1 + 22190 zHoward_County1
+ + 22565 zHumboldt_County1 + 10837 zIda_County1 + 17043 zIowa_County1
+ + 43235 zJackson_County1 + 10679 zJasper_County1 + 35437 zJefferson_County1
+ + 37813 zJohnson_County1 + 15663 zJones_County1 + 6497 zKeokuk_County1
+ + 174669 zKossuth_County1 + 93667 zLee_County1 + 46460 zLinn_County1
+ + 18662 zLouisa_County1 + 14484 zLucas_County1 + 7443 zLyon_County1
+ + 5674 zMadison_County1 + 20070 zMahaska_County1 + 105941 zMarion_County1
+ + 12138 zMarshall_County1 + 17135 zMills_County1 + 33555 zMitchell_County1
+ + 6192 zMonona_County1 + 20760 zMonroe_County1 + 131144 zMontgomery_County1
+ + 152854 zMuscatine_County1 + 8634 zO'Brien_County1 + 9814 zOsceola_County1
+ + 5896 zPage_County1 + 7577 zPalo_Alto_County1 + 11934 zPlymouth_County1
+ + 10795 zPocahontas_County1 + 9388 zPolk_County1
+ + 7005 zPottawattamie_County1 + 36999 zPoweshiek_County1
+ + 25698 zRinggold_County1 + 16878 zSac_County1 + 20646 zScott_County1
+ + 11658 zShelby_County1 + 12943 zSioux_County1 + 19509 zStory_County1
+ + 16525 zTama_County1 + 26715 zTaylor_County1 + 25575 zUnion_County1
+ + 15211 zVan_Buren_County1 + 8996 zWapello_County1 + 10565 zWarren_County1
+ + 52403 zWashington_County1 + 13127 zWayne_County1 + 15627 zWebster_County1
+ + 7203 zWinnebago_County1 + 20823 zWinneshiek_County1
+ + 16548 zWoodbury_County1 + 230299 zWorth_County1 + 35872 zWright_County1
+ <= 1674943.725
+
+_C523: 7496 zAdair_County1 + 3704 zAdams_County1 + 24988 zAllamakee_County1
+ + 14334 zAppanoose_County1 + 18505 zAudubon_County1 + 12012 zBenton_County1
+ + 9748 zBlack_Hawk_County1 + 17488 zBoone_County1 + 99678 zBremer_County1
+ + 16384 zBuchanan_County1 + 12329 zBuena_Vista_County1 + 9110 zButler_County1
+ + 9469 zCalhoun_County1 + 43127 zCarroll_County1 + 14061 zCass_County1
+ + 16662 zCedar_County1 + 10033 zCerro_Gordo_County1 + 10623 zCherokee_County1
+ + 10019 zChickasaw_County1 + 33414 zClarke_County1 + 15039 zClay_County1
+ + 20565 zClayton_County1 + 19485 zClinton_County1 + 9597 zCrawford_County1
+ + 38910 zDallas_County1 + 9927 zDavis_County1 + 40105 zDecatur_County1
+ + 8771 zDelaware_County1 + 7078 zDes_Moines_County1 + 8751 zDickinson_County1
+ + 10330 zDubuque_County1 + 4663 zEmmet_County1 + 6605 zFayette_County1
+ + 14582 zFloyd_County1 + 20482 zFranklin_County1 + 98537 zFremont_County1
+ + 17703 zGreene_County1 + 7645 zGrundy_County1 + 12317 zGuthrie_County1
+ + 99266 zHamilton_County1 + 14828 zHancock_County1 + 11746 zHardin_County1
+ + 14182 zHarrison_County1 + 492401 zHenry_County1 + 22190 zHoward_County1
+ + 22565 zHumboldt_County1 + 10837 zIda_County1 + 17043 zIowa_County1
+ + 43235 zJackson_County1 + 10679 zJasper_County1 + 35437 zJefferson_County1
+ + 37813 zJohnson_County1 + 15663 zJones_County1 + 6497 zKeokuk_County1
+ + 174669 zKossuth_County1 + 93667 zLee_County1 + 46460 zLinn_County1
+ + 18662 zLouisa_County1 + 14484 zLucas_County1 + 7443 zLyon_County1
+ + 5674 zMadison_County1 + 20070 zMahaska_County1 + 105941 zMarion_County1
+ + 12138 zMarshall_County1 + 17135 zMills_County1 + 33555 zMitchell_County1
+ + 6192 zMonona_County1 + 20760 zMonroe_County1 + 131144 zMontgomery_County1
+ + 152854 zMuscatine_County1 + 8634 zO'Brien_County1 + 9814 zOsceola_County1
+ + 5896 zPage_County1 + 7577 zPalo_Alto_County1 + 11934 zPlymouth_County1
+ + 10795 zPocahontas_County1 + 9388 zPolk_County1
+ + 7005 zPottawattamie_County1 + 36999 zPoweshiek_County1
+ + 25698 zRinggold_County1 + 16878 zSac_County1 + 20646 zScott_County1
+ + 11658 zShelby_County1 + 12943 zSioux_County1 + 19509 zStory_County1
+ + 16525 zTama_County1 + 26715 zTaylor_County1 + 25575 zUnion_County1
+ + 15211 zVan_Buren_County1 + 8996 zWapello_County1 + 10565 zWarren_County1
+ + 52403 zWashington_County1 + 13127 zWayne_County1 + 15627 zWebster_County1
+ + 7203 zWinnebago_County1 + 20823 zWinneshiek_County1
+ + 16548 zWoodbury_County1 + 230299 zWorth_County1 + 35872 zWright_County1
+ >= 1515425.275
+
+_C524:0 >= 0
+
+_C525:0 >= 0
+
+_C526:0 >= 0
+
+_C527:0 >= 0
+
+_C528:0 >= 0
+
+_C529:0 >= 0
+
+_C530:0 >= 0
+
+_C531:0 >= 0
+
+_C532:0 >= 0
+
+_C533:0 >= 0
+
+_C534:0 >= 0
+
+_C535:0 >= 0
+
+_C536:0 >= 0
+
+_C537:0 >= 0
+
+_C538:0 >= 0
+
+_C539:0 >= 0
+
+_C540:0 >= 0
+
+_C541:0 >= 0
+
+_C542:0 >= 0
+
+_C543:0 >= 0
+
+_C544:0 >= 0
+
+_C545:0 >= 0
+
+_C546:0 >= 0
+
+_C547:0 >= 0
+
+_C548:0 >= 0
+
+_C549:0 >= 0
+
+_C550:0 >= 0
+
+_C551:0 >= 0
+
+_C552:0 >= 0
+
+_C553:0 >= 0
+
+_C554:0 >= 0
+
+_C555:0 >= 0
+
+_C556:0 >= 0
+
+_C557:0 >= 0
+
+_C558:0 >= 0
+
+_C559:0 >= 0
+
+_C560:0 >= 0
+
+_C561:0 >= 0
+
+_C562:0 >= 0
+
+_C563:0 >= 0
+
+_C564:0 >= 0
+
+_C565:0 >= 0
+
+_C566:0 >= 0
+
+_C567:0 >= 0
+
+_C568:0 >= 0
+
+_C569:0 >= 0
+
+_C570:0 >= 0
+
+_C571:0 >= 0
+
+_C572:0 >= 0
+
+_C573:0 >= 0
+
+_C574:0 >= 0
+
+_C575:0 >= 0
+
+_C576:0 >= 0
+
+_C577:0 >= 0
+
+_C578:0 >= 0
+
+_C579:0 >= 0
+
+_C580:0 >= 0
+
+_C581:0 >= 0
+
+_C582:0 >= 0
+
+_C583:0 >= 0
+
+_C584:0 >= 0
+
+_C585:0 >= 0
+
+_C586:0 >= 0
+
+_C587:0 >= 0
+
+_C588:0 >= 0
+
+_C589:0 >= 0
+
+_C590:0 >= 0
+
+_C591:0 >= 0
+
+_C592:0 >= 0
+
+_C593:0 >= 0
+
+_C594:0 >= 0
+
+_C595:0 >= 0
+
+_C596:0 >= 0
+
+_C597:0 >= 0
+
+_C598:0 >= 0
+
+_C599:0 >= 0
+
+_C600:0 >= 0
+
+_C601:0 >= 0
+
+_C602:0 >= 0
+
+_C603:0 >= 0
+
+_C604:0 >= 0
+
+_C605:0 >= 0
+
+_C606:0 >= 0
+
+_C607:0 >= 0
+
+_C608:0 >= 0
+
+_C609:0 >= 0
+
+_C610:0 >= 0
+
+_C611:0 >= 0
+
+_C612:0 >= 0
+
+_C613:0 >= 0
+
+_C614:0 >= 0
+
+_C615:0 >= 0
+
+_C616:0 >= 0
+
+_C617:0 >= 0
+
+_C618:0 >= 0
+
+_C619:0 >= 0
+
+_C620:0 >= 0
+
+_C621:0 >= 0
+
+_C622:0 >= 0
+
+_C623:0 >= 0
+
+_C624:0 >= 0
+
+_C625:0 >= 0
+
+_C626:0 >= 0
+
+_C627:0 >= 0
+
+_C628:0 >= 0
+
+_C629:0 >= 0
+
+_C630:0 >= 0
+
+_C631:0 >= 0
+
+_C632:0 >= 0
+
+_C633:0 >= 0
+
+_C634:0 >= 0
+
+_C635:0 >= 0
+
+_C636:0 >= 0
+
+_C637:0 >= 0
+
+_C638:0 >= 0
+
+_C639:0 >= 0
+
+_C640:0 >= 0
+
+_C641:0 >= 0
+
+_C642:0 >= 0
+
+_C643:0 >= 0
+
+_C644:0 >= 0
+
+_C645:0 >= 0
+
+_C646:0 >= 0
+
+_C647:0 >= 0
+
+_C648:0 >= 0
+
+_C649:0 >= 0
+
+_C650:0 >= 0
+
+_C651:0 >= 0
+
+_C652:0 >= 0
+
+_C653:0 >= 0
+
+_C654:0 >= 0
+
+_C655:0 >= 0
+
+_C656:0 >= 0
+
+_C657:0 >= 0
+
+_C658:0 >= 0
+
+_C659:0 >= 0
+
+_C660:0 >= 0
+
+_C661:0 >= 0
+
+_C662:0 >= 0
+
+_C663:0 >= 0
+
+_C664:0 >= 0
+
+_C665:0 >= 0
+
+_C666:0 >= 0
+
+_C667:0 >= 0
+
+_C668:0 >= 0
+
+_C669:0 >= 0
+
+_C670:0 >= 0
+
+_C671:0 >= 0
+
+_C672:0 >= 0
+
+_C673:0 >= 0
+
+_C674:0 >= 0
+
+_C675:0 >= 0
+
+_C676:0 >= 0
+
+_C677:0 >= 0
+
+_C678:0 >= 0
+
+_C679:0 >= 0
+
+_C680:0 >= 0
+
+_C681:0 >= 0
+
+_C682:0 >= 0
+
+_C683:0 >= 0
+
+_C684:0 >= 0
+
+_C685:0 >= 0
+
+_C686:0 >= 0
+
+_C687:0 >= 0
+
+_C688:0 >= 0
+
+_C689:0 >= 0
+
+_C690:0 >= 0
+
+_C691:0 >= 0
+
+_C692:0 >= 0
+
+_C693:0 >= 0
+
+_C694:0 >= 0
+
+_C695:0 >= 0
+
+_C696:0 >= 0
+
+_C697:0 >= 0
+
+_C698:0 >= 0
+
+_C699:0 >= 0
+
+_C700:0 >= 0
+
+_C701:0 >= 0
+
+_C702:0 >= 0
+
+_C703:0 >= 0
+
+_C704:0 >= 0
+
+_C705:0 >= 0
+
+_C706:0 >= 0
+
+_C707:0 >= 0
+
+_C708:0 >= 0
+
+_C709:0 >= 0
+
+_C710:0 >= 0
+
+_C711:0 >= 0
+
+_C712:0 >= 0
+
+_C713:0 >= 0
+
+_C714:0 >= 0
+
+_C715:0 >= 0
+
+_C716:0 >= 0
+
+_C717:0 >= 0
+
+_C718:0 >= 0
+
+_C719:0 >= 0
+
+_C720:0 >= 0
+
+_C721:0 >= 0
+
+VARIABLES
+0 <= xAdair_County <= 2 Integer
+0 <= xAdams_County <= 2 Integer
+0 <= xAllamakee_County <= 2 Integer
+0 <= xAppanoose_County <= 2 Integer
+0 <= xAudubon_County <= 2 Integer
+0 <= xBenton_County <= 2 Integer
+0 <= xBlack_Hawk_County <= 2 Integer
+0 <= xBoone_County <= 2 Integer
+0 <= xBremer_County <= 2 Integer
+0 <= xBuchanan_County <= 2 Integer
+0 <= xBuena_Vista_County <= 2 Integer
+0 <= xButler_County <= 2 Integer
+0 <= xCalhoun_County <= 2 Integer
+0 <= xCarroll_County <= 2 Integer
+0 <= xCass_County <= 2 Integer
+0 <= xCedar_County <= 2 Integer
+0 <= xCerro_Gordo_County <= 2 Integer
+0 <= xCherokee_County <= 2 Integer
+0 <= xChickasaw_County <= 2 Integer
+0 <= xClarke_County <= 2 Integer
+0 <= xClay_County <= 2 Integer
+0 <= xClayton_County <= 2 Integer
+0 <= xClinton_County <= 2 Integer
+0 <= xCrawford_County <= 2 Integer
+0 <= xDallas_County <= 2 Integer
+0 <= xDavis_County <= 2 Integer
+0 <= xDecatur_County <= 2 Integer
+0 <= xDelaware_County <= 2 Integer
+0 <= xDes_Moines_County <= 2 Integer
+0 <= xDickinson_County <= 2 Integer
+0 <= xDubuque_County <= 2 Integer
+0 <= xEmmet_County <= 2 Integer
+0 <= xFayette_County <= 2 Integer
+0 <= xFloyd_County <= 2 Integer
+0 <= xFranklin_County <= 2 Integer
+0 <= xFremont_County <= 2 Integer
+0 <= xGreene_County <= 2 Integer
+0 <= xGrundy_County <= 2 Integer
+0 <= xGuthrie_County <= 2 Integer
+0 <= xHamilton_County <= 2 Integer
+0 <= xHancock_County <= 2 Integer
+0 <= xHardin_County <= 2 Integer
+0 <= xHarrison_County <= 2 Integer
+0 <= xHenry_County <= 2 Integer
+0 <= xHoward_County <= 2 Integer
+0 <= xHumboldt_County <= 2 Integer
+0 <= xIda_County <= 2 Integer
+0 <= xIowa_County <= 2 Integer
+0 <= xJackson_County <= 2 Integer
+0 <= xJasper_County <= 2 Integer
+0 <= xJefferson_County <= 2 Integer
+0 <= xJohnson_County <= 2 Integer
+0 <= xJones_County <= 2 Integer
+0 <= xKeokuk_County <= 2 Integer
+0 <= xKossuth_County <= 2 Integer
+0 <= xLee_County <= 2 Integer
+0 <= xLinn_County <= 2 Integer
+0 <= xLouisa_County <= 2 Integer
+0 <= xLucas_County <= 2 Integer
+0 <= xLyon_County <= 2 Integer
+0 <= xMadison_County <= 2 Integer
+0 <= xMahaska_County <= 2 Integer
+0 <= xMarion_County <= 2 Integer
+0 <= xMarshall_County <= 2 Integer
+0 <= xMills_County <= 2 Integer
+0 <= xMitchell_County <= 2 Integer
+0 <= xMonona_County <= 2 Integer
+0 <= xMonroe_County <= 2 Integer
+0 <= xMontgomery_County <= 2 Integer
+0 <= xMuscatine_County <= 2 Integer
+0 <= xO'Brien_County <= 2 Integer
+0 <= xOsceola_County <= 2 Integer
+0 <= xPage_County <= 2 Integer
+0 <= xPalo_Alto_County <= 2 Integer
+0 <= xPlymouth_County <= 2 Integer
+0 <= xPocahontas_County <= 2 Integer
+0 <= xPolk_County <= 2 Integer
+0 <= xPottawattamie_County <= 2 Integer
+0 <= xPoweshiek_County <= 2 Integer
+0 <= xRinggold_County <= 2 Integer
+0 <= xSac_County <= 2 Integer
+0 <= xScott_County <= 2 Integer
+0 <= xShelby_County <= 2 Integer
+0 <= xSioux_County <= 2 Integer
+0 <= xStory_County <= 2 Integer
+0 <= xTama_County <= 2 Integer
+0 <= xTaylor_County <= 2 Integer
+0 <= xUnion_County <= 2 Integer
+0 <= xVan_Buren_County <= 2 Integer
+0 <= xWapello_County <= 2 Integer
+0 <= xWarren_County <= 2 Integer
+0 <= xWashington_County <= 2 Integer
+0 <= xWayne_County <= 2 Integer
+0 <= xWebster_County <= 2 Integer
+0 <= xWinnebago_County <= 2 Integer
+0 <= xWinneshiek_County <= 2 Integer
+0 <= xWoodbury_County <= 2 Integer
+0 <= xWorth_County <= 2 Integer
+0 <= xWright_County <= 2 Integer
+0 <= yAdair_CountyAdams_County <= 1 Integer
+0 <= yAdair_CountyCass_County <= 1 Integer
+0 <= yAdair_CountyGuthrie_County <= 1 Integer
+0 <= yAdair_CountyMadison_County <= 1 Integer
+0 <= yAdair_CountyUnion_County <= 1 Integer
+0 <= yAdams_CountyCass_County <= 1 Integer
+0 <= yAdams_CountyMontgomery_County <= 1 Integer
+0 <= yAdams_CountyTaylor_County <= 1 Integer
+0 <= yAdams_CountyUnion_County <= 1 Integer
+0 <= yAllamakee_CountyClayton_County <= 1 Integer
+0 <= yAllamakee_CountyWinneshiek_County <= 1 Integer
+0 <= yAppanoose_CountyDavis_County <= 1 Integer
+0 <= yAppanoose_CountyMonroe_County <= 1 Integer
+0 <= yAppanoose_CountyWayne_County <= 1 Integer
+0 <= yAudubon_CountyCarroll_County <= 1 Integer
+0 <= yAudubon_CountyShelby_County <= 1 Integer
+0 <= yBenton_CountyBlack_Hawk_County <= 1 Integer
+0 <= yBenton_CountyBuchanan_County <= 1 Integer
+0 <= yBenton_CountyIowa_County <= 1 Integer
+0 <= yBenton_CountyLinn_County <= 1 Integer
+0 <= yBenton_CountyTama_County <= 1 Integer
+0 <= yBlack_Hawk_CountyBremer_County <= 1 Integer
+0 <= yBlack_Hawk_CountyBuchanan_County <= 1 Integer
+0 <= yBlack_Hawk_CountyButler_County <= 1 Integer
+0 <= yBlack_Hawk_CountyGrundy_County <= 1 Integer
+0 <= yBlack_Hawk_CountyTama_County <= 1 Integer
+0 <= yBoone_CountyDallas_County <= 1 Integer
+0 <= yBoone_CountyGreene_County <= 1 Integer
+0 <= yBoone_CountyHamilton_County <= 1 Integer
+0 <= yBoone_CountyPolk_County <= 1 Integer
+0 <= yBoone_CountyStory_County <= 1 Integer
+0 <= yBoone_CountyWebster_County <= 1 Integer
+0 <= yBremer_CountyButler_County <= 1 Integer
+0 <= yBremer_CountyChickasaw_County <= 1 Integer
+0 <= yBremer_CountyFayette_County <= 1 Integer
+0 <= yBuchanan_CountyDelaware_County <= 1 Integer
+0 <= yBuchanan_CountyFayette_County <= 1 Integer
+0 <= yBuchanan_CountyLinn_County <= 1 Integer
+0 <= yBuena_Vista_CountyCherokee_County <= 1 Integer
+0 <= yBuena_Vista_CountyClay_County <= 1 Integer
+0 <= yBuena_Vista_CountyPocahontas_County <= 1 Integer
+0 <= yBuena_Vista_CountySac_County <= 1 Integer
+0 <= yButler_CountyFloyd_County <= 1 Integer
+0 <= yButler_CountyFranklin_County <= 1 Integer
+0 <= yButler_CountyGrundy_County <= 1 Integer
+0 <= yCarroll_CountyCalhoun_County <= 1 Integer
+0 <= yCarroll_CountyCrawford_County <= 1 Integer
+0 <= yCarroll_CountyGreene_County <= 1 Integer
+0 <= yCarroll_CountySac_County <= 1 Integer
+0 <= yCass_CountyAudubon_County <= 1 Integer
+0 <= yCass_CountyMontgomery_County <= 1 Integer
+0 <= yCass_CountyPottawattamie_County <= 1 Integer
+0 <= yCass_CountyShelby_County <= 1 Integer
+0 <= yCedar_CountyClinton_County <= 1 Integer
+0 <= yCedar_CountyJohnson_County <= 1 Integer
+0 <= yCedar_CountyJones_County <= 1 Integer
+0 <= yCedar_CountyMuscatine_County <= 1 Integer
+0 <= yCedar_CountyScott_County <= 1 Integer
+0 <= yCerro_Gordo_CountyHancock_County <= 1 Integer
+0 <= yCerro_Gordo_CountyMitchell_County <= 1 Integer
+0 <= yCerro_Gordo_CountyWorth_County <= 1 Integer
+0 <= yCherokee_CountyIda_County <= 1 Integer
+0 <= yCherokee_CountyO'Brien_County <= 1 Integer
+0 <= yCherokee_CountyPlymouth_County <= 1 Integer
+0 <= yCherokee_CountyWoodbury_County <= 1 Integer
+0 <= yChickasaw_CountyFayette_County <= 1 Integer
+0 <= yChickasaw_CountyFloyd_County <= 1 Integer
+0 <= yChickasaw_CountyHoward_County <= 1 Integer
+0 <= yClarke_CountyDecatur_County <= 1 Integer
+0 <= yClarke_CountyLucas_County <= 1 Integer
+0 <= yClarke_CountyWarren_County <= 1 Integer
+0 <= yClay_CountyDickinson_County <= 1 Integer
+0 <= yClay_CountyO'Brien_County <= 1 Integer
+0 <= yClay_CountyPalo_Alto_County <= 1 Integer
+0 <= yClayton_CountyDelaware_County <= 1 Integer
+0 <= yClayton_CountyDubuque_County <= 1 Integer
+0 <= yClayton_CountyFayette_County <= 1 Integer
+0 <= yClinton_CountyJackson_County <= 1 Integer
+0 <= yClinton_CountyJones_County <= 1 Integer
+0 <= yClinton_CountyScott_County <= 1 Integer
+0 <= yCrawford_CountyHarrison_County <= 1 Integer
+0 <= yCrawford_CountyIda_County <= 1 Integer
+0 <= yCrawford_CountyMonona_County <= 1 Integer
+0 <= yDallas_CountyGreene_County <= 1 Integer
+0 <= yDallas_CountyPolk_County <= 1 Integer
+0 <= yDavis_CountyVan_Buren_County <= 1 Integer
+0 <= yDavis_CountyWapello_County <= 1 Integer
+0 <= yDecatur_CountyRinggold_County <= 1 Integer
+0 <= yDelaware_CountyDubuque_County <= 1 Integer
+0 <= yDelaware_CountyJones_County <= 1 Integer
+0 <= yDes_Moines_CountyHenry_County <= 1 Integer
+0 <= yDes_Moines_CountyLee_County <= 1 Integer
+0 <= yDes_Moines_CountyLouisa_County <= 1 Integer
+0 <= yDickinson_CountyEmmet_County <= 1 Integer
+0 <= yDickinson_CountyOsceola_County <= 1 Integer
+0 <= yDubuque_CountyJackson_County <= 1 Integer
+0 <= yEmmet_CountyKossuth_County <= 1 Integer
+0 <= yFloyd_CountyCerro_Gordo_County <= 1 Integer
+0 <= yFloyd_CountyMitchell_County <= 1 Integer
+0 <= yFranklin_CountyCerro_Gordo_County <= 1 Integer
+0 <= yFranklin_CountyHardin_County <= 1 Integer
+0 <= yFranklin_CountyWright_County <= 1 Integer
+0 <= yFremont_CountyMills_County <= 1 Integer
+0 <= yFremont_CountyPage_County <= 1 Integer
+0 <= yGreene_CountyCalhoun_County <= 1 Integer
+0 <= yGreene_CountyWebster_County <= 1 Integer
+0 <= yGrundy_CountyHardin_County <= 1 Integer
+0 <= yGrundy_CountyMarshall_County <= 1 Integer
+0 <= yGuthrie_CountyAudubon_County <= 1 Integer
+0 <= yGuthrie_CountyCarroll_County <= 1 Integer
+0 <= yGuthrie_CountyDallas_County <= 1 Integer
+0 <= yGuthrie_CountyGreene_County <= 1 Integer
+0 <= yHamilton_CountyHardin_County <= 1 Integer
+0 <= yHamilton_CountyStory_County <= 1 Integer
+0 <= yHamilton_CountyWebster_County <= 1 Integer
+0 <= yHamilton_CountyWright_County <= 1 Integer
+0 <= yHancock_CountyKossuth_County <= 1 Integer
+0 <= yHancock_CountyWinnebago_County <= 1 Integer
+0 <= yHancock_CountyWright_County <= 1 Integer
+0 <= yHardin_CountyMarshall_County <= 1 Integer
+0 <= yHarrison_CountyMonona_County <= 1 Integer
+0 <= yHenry_CountyJefferson_County <= 1 Integer
+0 <= yHenry_CountyLee_County <= 1 Integer
+0 <= yHenry_CountyLouisa_County <= 1 Integer
+0 <= yHenry_CountyWashington_County <= 1 Integer
+0 <= yIda_CountyWoodbury_County <= 1 Integer
+0 <= yIowa_CountyJohnson_County <= 1 Integer
+0 <= yIowa_CountyKeokuk_County <= 1 Integer
+0 <= yIowa_CountyPoweshiek_County <= 1 Integer
+0 <= yIowa_CountyWashington_County <= 1 Integer
+0 <= yJasper_CountyMahaska_County <= 1 Integer
+0 <= yJasper_CountyMarion_County <= 1 Integer
+0 <= yJefferson_CountyKeokuk_County <= 1 Integer
+0 <= yJefferson_CountyWashington_County <= 1 Integer
+0 <= yJohnson_CountyLouisa_County <= 1 Integer
+0 <= yJohnson_CountyMuscatine_County <= 1 Integer
+0 <= yJohnson_CountyWashington_County <= 1 Integer
+0 <= yJones_CountyDubuque_County <= 1 Integer
+0 <= yJones_CountyJackson_County <= 1 Integer
+0 <= yKeokuk_CountyMahaska_County <= 1 Integer
+0 <= yKeokuk_CountyPoweshiek_County <= 1 Integer
+0 <= yKossuth_CountyHumboldt_County <= 1 Integer
+0 <= yKossuth_CountyWinnebago_County <= 1 Integer
+0 <= yLinn_CountyCedar_County <= 1 Integer
+0 <= yLinn_CountyDelaware_County <= 1 Integer
+0 <= yLinn_CountyJohnson_County <= 1 Integer
+0 <= yLinn_CountyJones_County <= 1 Integer
+0 <= yLouisa_CountyWashington_County <= 1 Integer
+0 <= yLucas_CountyMarion_County <= 1 Integer
+0 <= yLucas_CountyWarren_County <= 1 Integer
+0 <= yLyon_CountySioux_County <= 1 Integer
+0 <= yMadison_CountyClarke_County <= 1 Integer
+0 <= yMadison_CountyDallas_County <= 1 Integer
+0 <= yMadison_CountyUnion_County <= 1 Integer
+0 <= yMadison_CountyWarren_County <= 1 Integer
+0 <= yMahaska_CountyMarion_County <= 1 Integer
+0 <= yMarshall_CountyJasper_County <= 1 Integer
+0 <= yMitchell_CountyHoward_County <= 1 Integer
+0 <= yMitchell_CountyWorth_County <= 1 Integer
+0 <= yMonroe_CountyLucas_County <= 1 Integer
+0 <= yMonroe_CountyMahaska_County <= 1 Integer
+0 <= yMonroe_CountyMarion_County <= 1 Integer
+0 <= yMonroe_CountyWapello_County <= 1 Integer
+0 <= yMontgomery_CountyMills_County <= 1 Integer
+0 <= yMontgomery_CountyPage_County <= 1 Integer
+0 <= yMontgomery_CountyPottawattamie_County <= 1 Integer
+0 <= yMuscatine_CountyLouisa_County <= 1 Integer
+0 <= yMuscatine_CountyScott_County <= 1 Integer
+0 <= yO'Brien_CountyOsceola_County <= 1 Integer
+0 <= yO'Brien_CountySioux_County <= 1 Integer
+0 <= yOsceola_CountyLyon_County <= 1 Integer
+0 <= yPalo_Alto_CountyEmmet_County <= 1 Integer
+0 <= yPalo_Alto_CountyKossuth_County <= 1 Integer
+0 <= yPlymouth_CountySioux_County <= 1 Integer
+0 <= yPlymouth_CountyWoodbury_County <= 1 Integer
+0 <= yPocahontas_CountyCalhoun_County <= 1 Integer
+0 <= yPocahontas_CountyHumboldt_County <= 1 Integer
+0 <= yPocahontas_CountyPalo_Alto_County <= 1 Integer
+0 <= yPolk_CountyJasper_County <= 1 Integer
+0 <= yPolk_CountyMarion_County <= 1 Integer
+0 <= yPolk_CountyStory_County <= 1 Integer
+0 <= yPolk_CountyWarren_County <= 1 Integer
+0 <= yPottawattamie_CountyHarrison_County <= 1 Integer
+0 <= yPottawattamie_CountyMills_County <= 1 Integer
+0 <= yPoweshiek_CountyJasper_County <= 1 Integer
+0 <= yPoweshiek_CountyMahaska_County <= 1 Integer
+0 <= ySac_CountyCalhoun_County <= 1 Integer
+0 <= ySac_CountyCrawford_County <= 1 Integer
+0 <= ySac_CountyIda_County <= 1 Integer
+0 <= yShelby_CountyCrawford_County <= 1 Integer
+0 <= yShelby_CountyHarrison_County <= 1 Integer
+0 <= yShelby_CountyPottawattamie_County <= 1 Integer
+0 <= yStory_CountyHardin_County <= 1 Integer
+0 <= yStory_CountyJasper_County <= 1 Integer
+0 <= yStory_CountyMarshall_County <= 1 Integer
+0 <= yTama_CountyGrundy_County <= 1 Integer
+0 <= yTama_CountyMarshall_County <= 1 Integer
+0 <= yTama_CountyPoweshiek_County <= 1 Integer
+0 <= yTaylor_CountyPage_County <= 1 Integer
+0 <= yTaylor_CountyRinggold_County <= 1 Integer
+0 <= yUnion_CountyClarke_County <= 1 Integer
+0 <= yUnion_CountyRinggold_County <= 1 Integer
+0 <= yVan_Buren_CountyHenry_County <= 1 Integer
+0 <= yVan_Buren_CountyJefferson_County <= 1 Integer
+0 <= yVan_Buren_CountyLee_County <= 1 Integer
+0 <= yWapello_CountyJefferson_County <= 1 Integer
+0 <= yWapello_CountyKeokuk_County <= 1 Integer
+0 <= yWapello_CountyMahaska_County <= 1 Integer
+0 <= yWarren_CountyMarion_County <= 1 Integer
+0 <= yWashington_CountyKeokuk_County <= 1 Integer
+0 <= yWayne_CountyDecatur_County <= 1 Integer
+0 <= yWayne_CountyLucas_County <= 1 Integer
+0 <= yWebster_CountyCalhoun_County <= 1 Integer
+0 <= yWebster_CountyHumboldt_County <= 1 Integer
+0 <= yWebster_CountyPocahontas_County <= 1 Integer
+0 <= yWebster_CountyWright_County <= 1 Integer
+0 <= yWinneshiek_CountyChickasaw_County <= 1 Integer
+0 <= yWinneshiek_CountyFayette_County <= 1 Integer
+0 <= yWinneshiek_CountyHoward_County <= 1 Integer
+0 <= yWoodbury_CountyMonona_County <= 1 Integer
+0 <= yWorth_CountyWinnebago_County <= 1 Integer
+0 <= yWright_CountyHumboldt_County <= 1 Integer
+0 <= zAdair_County0 <= 1 Integer
+0 <= zAdair_County1 <= 1 Integer
+0 <= zAdams_County0 <= 1 Integer
+0 <= zAdams_County1 <= 1 Integer
+0 <= zAllamakee_County0 <= 1 Integer
+0 <= zAllamakee_County1 <= 1 Integer
+0 <= zAppanoose_County0 <= 1 Integer
+0 <= zAppanoose_County1 <= 1 Integer
+0 <= zAudubon_County0 <= 1 Integer
+0 <= zAudubon_County1 <= 1 Integer
+0 <= zBenton_County0 <= 1 Integer
+0 <= zBenton_County1 <= 1 Integer
+0 <= zBlack_Hawk_County0 <= 1 Integer
+0 <= zBlack_Hawk_County1 <= 1 Integer
+0 <= zBoone_County0 <= 1 Integer
+0 <= zBoone_County1 <= 1 Integer
+0 <= zBremer_County0 <= 1 Integer
+0 <= zBremer_County1 <= 1 Integer
+0 <= zBuchanan_County0 <= 1 Integer
+0 <= zBuchanan_County1 <= 1 Integer
+0 <= zBuena_Vista_County0 <= 1 Integer
+0 <= zBuena_Vista_County1 <= 1 Integer
+0 <= zButler_County0 <= 1 Integer
+0 <= zButler_County1 <= 1 Integer
+0 <= zCalhoun_County0 <= 1 Integer
+0 <= zCalhoun_County1 <= 1 Integer
+0 <= zCarroll_County0 <= 1 Integer
+0 <= zCarroll_County1 <= 1 Integer
+0 <= zCass_County0 <= 1 Integer
+0 <= zCass_County1 <= 1 Integer
+0 <= zCedar_County0 <= 1 Integer
+0 <= zCedar_County1 <= 1 Integer
+0 <= zCerro_Gordo_County0 <= 1 Integer
+0 <= zCerro_Gordo_County1 <= 1 Integer
+0 <= zCherokee_County0 <= 1 Integer
+0 <= zCherokee_County1 <= 1 Integer
+0 <= zChickasaw_County0 <= 1 Integer
+0 <= zChickasaw_County1 <= 1 Integer
+0 <= zClarke_County0 <= 1 Integer
+0 <= zClarke_County1 <= 1 Integer
+0 <= zClay_County0 <= 1 Integer
+0 <= zClay_County1 <= 1 Integer
+0 <= zClayton_County0 <= 1 Integer
+0 <= zClayton_County1 <= 1 Integer
+0 <= zClinton_County0 <= 1 Integer
+0 <= zClinton_County1 <= 1 Integer
+0 <= zCrawford_County0 <= 1 Integer
+0 <= zCrawford_County1 <= 1 Integer
+0 <= zDallas_County0 <= 1 Integer
+0 <= zDallas_County1 <= 1 Integer
+0 <= zDavis_County0 <= 1 Integer
+0 <= zDavis_County1 <= 1 Integer
+0 <= zDecatur_County0 <= 1 Integer
+0 <= zDecatur_County1 <= 1 Integer
+0 <= zDelaware_County0 <= 1 Integer
+0 <= zDelaware_County1 <= 1 Integer
+0 <= zDes_Moines_County0 <= 1 Integer
+0 <= zDes_Moines_County1 <= 1 Integer
+0 <= zDickinson_County0 <= 1 Integer
+0 <= zDickinson_County1 <= 1 Integer
+0 <= zDubuque_County0 <= 1 Integer
+0 <= zDubuque_County1 <= 1 Integer
+0 <= zEmmet_County0 <= 1 Integer
+0 <= zEmmet_County1 <= 1 Integer
+0 <= zFayette_County0 <= 1 Integer
+0 <= zFayette_County1 <= 1 Integer
+0 <= zFloyd_County0 <= 1 Integer
+0 <= zFloyd_County1 <= 1 Integer
+0 <= zFranklin_County0 <= 1 Integer
+0 <= zFranklin_County1 <= 1 Integer
+0 <= zFremont_County0 <= 1 Integer
+0 <= zFremont_County1 <= 1 Integer
+0 <= zGreene_County0 <= 1 Integer
+0 <= zGreene_County1 <= 1 Integer
+0 <= zGrundy_County0 <= 1 Integer
+0 <= zGrundy_County1 <= 1 Integer
+0 <= zGuthrie_County0 <= 1 Integer
+0 <= zGuthrie_County1 <= 1 Integer
+0 <= zHamilton_County0 <= 1 Integer
+0 <= zHamilton_County1 <= 1 Integer
+0 <= zHancock_County0 <= 1 Integer
+0 <= zHancock_County1 <= 1 Integer
+0 <= zHardin_County0 <= 1 Integer
+0 <= zHardin_County1 <= 1 Integer
+0 <= zHarrison_County0 <= 1 Integer
+0 <= zHarrison_County1 <= 1 Integer
+0 <= zHenry_County0 <= 1 Integer
+0 <= zHenry_County1 <= 1 Integer
+0 <= zHoward_County0 <= 1 Integer
+0 <= zHoward_County1 <= 1 Integer
+0 <= zHumboldt_County0 <= 1 Integer
+0 <= zHumboldt_County1 <= 1 Integer
+0 <= zIda_County0 <= 1 Integer
+0 <= zIda_County1 <= 1 Integer
+0 <= zIowa_County0 <= 1 Integer
+0 <= zIowa_County1 <= 1 Integer
+0 <= zJackson_County0 <= 1 Integer
+0 <= zJackson_County1 <= 1 Integer
+0 <= zJasper_County0 <= 1 Integer
+0 <= zJasper_County1 <= 1 Integer
+0 <= zJefferson_County0 <= 1 Integer
+0 <= zJefferson_County1 <= 1 Integer
+0 <= zJohnson_County0 <= 1 Integer
+0 <= zJohnson_County1 <= 1 Integer
+0 <= zJones_County0 <= 1 Integer
+0 <= zJones_County1 <= 1 Integer
+0 <= zKeokuk_County0 <= 1 Integer
+0 <= zKeokuk_County1 <= 1 Integer
+0 <= zKossuth_County0 <= 1 Integer
+0 <= zKossuth_County1 <= 1 Integer
+0 <= zLee_County0 <= 1 Integer
+0 <= zLee_County1 <= 1 Integer
+0 <= zLinn_County0 <= 1 Integer
+0 <= zLinn_County1 <= 1 Integer
+0 <= zLouisa_County0 <= 1 Integer
+0 <= zLouisa_County1 <= 1 Integer
+0 <= zLucas_County0 <= 1 Integer
+0 <= zLucas_County1 <= 1 Integer
+0 <= zLyon_County0 <= 1 Integer
+0 <= zLyon_County1 <= 1 Integer
+0 <= zMadison_County0 <= 1 Integer
+0 <= zMadison_County1 <= 1 Integer
+0 <= zMahaska_County0 <= 1 Integer
+0 <= zMahaska_County1 <= 1 Integer
+0 <= zMarion_County0 <= 1 Integer
+0 <= zMarion_County1 <= 1 Integer
+0 <= zMarshall_County0 <= 1 Integer
+0 <= zMarshall_County1 <= 1 Integer
+0 <= zMills_County0 <= 1 Integer
+0 <= zMills_County1 <= 1 Integer
+0 <= zMitchell_County0 <= 1 Integer
+0 <= zMitchell_County1 <= 1 Integer
+0 <= zMonona_County0 <= 1 Integer
+0 <= zMonona_County1 <= 1 Integer
+0 <= zMonroe_County0 <= 1 Integer
+0 <= zMonroe_County1 <= 1 Integer
+0 <= zMontgomery_County0 <= 1 Integer
+0 <= zMontgomery_County1 <= 1 Integer
+0 <= zMuscatine_County0 <= 1 Integer
+0 <= zMuscatine_County1 <= 1 Integer
+0 <= zO'Brien_County0 <= 1 Integer
+0 <= zO'Brien_County1 <= 1 Integer
+0 <= zOsceola_County0 <= 1 Integer
+0 <= zOsceola_County1 <= 1 Integer
+0 <= zPage_County0 <= 1 Integer
+0 <= zPage_County1 <= 1 Integer
+0 <= zPalo_Alto_County0 <= 1 Integer
+0 <= zPalo_Alto_County1 <= 1 Integer
+0 <= zPlymouth_County0 <= 1 Integer
+0 <= zPlymouth_County1 <= 1 Integer
+0 <= zPocahontas_County0 <= 1 Integer
+0 <= zPocahontas_County1 <= 1 Integer
+0 <= zPolk_County0 <= 1 Integer
+0 <= zPolk_County1 <= 1 Integer
+0 <= zPottawattamie_County0 <= 1 Integer
+0 <= zPottawattamie_County1 <= 1 Integer
+0 <= zPoweshiek_County0 <= 1 Integer
+0 <= zPoweshiek_County1 <= 1 Integer
+0 <= zRinggold_County0 <= 1 Integer
+0 <= zRinggold_County1 <= 1 Integer
+0 <= zSac_County0 <= 1 Integer
+0 <= zSac_County1 <= 1 Integer
+0 <= zScott_County0 <= 1 Integer
+0 <= zScott_County1 <= 1 Integer
+0 <= zShelby_County0 <= 1 Integer
+0 <= zShelby_County1 <= 1 Integer
+0 <= zSioux_County0 <= 1 Integer
+0 <= zSioux_County1 <= 1 Integer
+0 <= zStory_County0 <= 1 Integer
+0 <= zStory_County1 <= 1 Integer
+0 <= zTama_County0 <= 1 Integer
+0 <= zTama_County1 <= 1 Integer
+0 <= zTaylor_County0 <= 1 Integer
+0 <= zTaylor_County1 <= 1 Integer
+0 <= zUnion_County0 <= 1 Integer
+0 <= zUnion_County1 <= 1 Integer
+0 <= zVan_Buren_County0 <= 1 Integer
+0 <= zVan_Buren_County1 <= 1 Integer
+0 <= zWapello_County0 <= 1 Integer
+0 <= zWapello_County1 <= 1 Integer
+0 <= zWarren_County0 <= 1 Integer
+0 <= zWarren_County1 <= 1 Integer
+0 <= zWashington_County0 <= 1 Integer
+0 <= zWashington_County1 <= 1 Integer
+0 <= zWayne_County0 <= 1 Integer
+0 <= zWayne_County1 <= 1 Integer
+0 <= zWebster_County0 <= 1 Integer
+0 <= zWebster_County1 <= 1 Integer
+0 <= zWinnebago_County0 <= 1 Integer
+0 <= zWinnebago_County1 <= 1 Integer
+0 <= zWinneshiek_County0 <= 1 Integer
+0 <= zWinneshiek_County1 <= 1 Integer
+0 <= zWoodbury_County0 <= 1 Integer
+0 <= zWoodbury_County1 <= 1 Integer
+0 <= zWorth_County0 <= 1 Integer
+0 <= zWorth_County1 <= 1 Integer
+0 <= zWright_County0 <= 1 Integer
+0 <= zWright_County1 <= 1 Integer
+
+[xAdair_County, xAdams_County, xAllamakee_County, xAppanoose_County, xAudubon_County, xBenton_County, xBlack_Hawk_County, xBoone_County, xBremer_County, xBuchanan_County, xBuena_Vista_County, xButler_County, xCalhoun_County, xCarroll_County, xCass_County, xCedar_County, xCerro_Gordo_County, xCherokee_County, xChickasaw_County, xClarke_County, xClay_County, xClayton_County, xClinton_County, xCrawford_County, xDallas_County, xDavis_County, xDecatur_County, xDelaware_County, xDes_Moines_County, xDickinson_County, xDubuque_County, xEmmet_County, xFayette_County, xFloyd_County, xFranklin_County, xFremont_County, xGreene_County, xGrundy_County, xGuthrie_County, xHamilton_County, xHancock_County, xHardin_County, xHarrison_County, xHenry_County, xHoward_County, xHumboldt_County, xIda_County, xIowa_County, xJackson_County, xJasper_County, xJefferson_County, xJohnson_County, xJones_County, xKeokuk_County, xKossuth_County, xLee_County, xLinn_County, xLouisa_County, xLucas_County, xLyon_County, xMadison_County, xMahaska_County, xMarion_County, xMarshall_County, xMills_County, xMitchell_County, xMonona_County, xMonroe_County, xMontgomery_County, xMuscatine_County, xO'Brien_County, xOsceola_County, xPage_County, xPalo_Alto_County, xPlymouth_County, xPocahontas_County, xPolk_County, xPottawattamie_County, xPoweshiek_County, xRinggold_County, xSac_County, xScott_County, xShelby_County, xSioux_County, xStory_County, xTama_County, xTaylor_County, xUnion_County, xVan_Buren_County, xWapello_County, xWarren_County, xWashington_County, xWayne_County, xWebster_County, xWinnebago_County, xWinneshiek_County, xWoodbury_County, xWorth_County, xWright_County, yAdair_CountyAdams_County, yAdair_CountyCass_County, yAdair_CountyGuthrie_County, yAdair_CountyMadison_County, yAdair_CountyUnion_County, yAdams_CountyCass_County, yAdams_CountyMontgomery_County, yAdams_CountyTaylor_County, yAdams_CountyUnion_County, yAllamakee_CountyClayton_County, yAllamakee_CountyWinneshiek_County, yAppanoose_CountyDavis_County, yAppanoose_CountyMonroe_County, yAppanoose_CountyWayne_County, yAudubon_CountyCarroll_County, yAudubon_CountyShelby_County, yBenton_CountyBlack_Hawk_County, yBenton_CountyBuchanan_County, yBenton_CountyIowa_County, yBenton_CountyLinn_County, yBenton_CountyTama_County, yBlack_Hawk_CountyBremer_County, yBlack_Hawk_CountyBuchanan_County, yBlack_Hawk_CountyButler_County, yBlack_Hawk_CountyGrundy_County, yBlack_Hawk_CountyTama_County, yBoone_CountyDallas_County, yBoone_CountyGreene_County, yBoone_CountyHamilton_County, yBoone_CountyPolk_County, yBoone_CountyStory_County, yBoone_CountyWebster_County, yBremer_CountyButler_County, yBremer_CountyChickasaw_County, yBremer_CountyFayette_County, yBuchanan_CountyDelaware_County, yBuchanan_CountyFayette_County, yBuchanan_CountyLinn_County, yBuena_Vista_CountyCherokee_County, yBuena_Vista_CountyClay_County, yBuena_Vista_CountyPocahontas_County, yBuena_Vista_CountySac_County, yButler_CountyFloyd_County, yButler_CountyFranklin_County, yButler_CountyGrundy_County, yCarroll_CountyCalhoun_County, yCarroll_CountyCrawford_County, yCarroll_CountyGreene_County, yCarroll_CountySac_County, yCass_CountyAudubon_County, yCass_CountyMontgomery_County, yCass_CountyPottawattamie_County, yCass_CountyShelby_County, yCedar_CountyClinton_County, yCedar_CountyJohnson_County, yCedar_CountyJones_County, yCedar_CountyMuscatine_County, yCedar_CountyScott_County, yCerro_Gordo_CountyHancock_County, yCerro_Gordo_CountyMitchell_County, yCerro_Gordo_CountyWorth_County, yCherokee_CountyIda_County, yCherokee_CountyO'Brien_County, yCherokee_CountyPlymouth_County, yCherokee_CountyWoodbury_County, yChickasaw_CountyFayette_County, yChickasaw_CountyFloyd_County, yChickasaw_CountyHoward_County, yClarke_CountyDecatur_County, yClarke_CountyLucas_County, yClarke_CountyWarren_County, yClay_CountyDickinson_County, yClay_CountyO'Brien_County, yClay_CountyPalo_Alto_County, yClayton_CountyDelaware_County, yClayton_CountyDubuque_County, yClayton_CountyFayette_County, yClinton_CountyJackson_County, yClinton_CountyJones_County, yClinton_CountyScott_County, yCrawford_CountyHarrison_County, yCrawford_CountyIda_County, yCrawford_CountyMonona_County, yDallas_CountyGreene_County, yDallas_CountyPolk_County, yDavis_CountyVan_Buren_County, yDavis_CountyWapello_County, yDecatur_CountyRinggold_County, yDelaware_CountyDubuque_County, yDelaware_CountyJones_County, yDes_Moines_CountyHenry_County, yDes_Moines_CountyLee_County, yDes_Moines_CountyLouisa_County, yDickinson_CountyEmmet_County, yDickinson_CountyOsceola_County, yDubuque_CountyJackson_County, yEmmet_CountyKossuth_County, yFloyd_CountyCerro_Gordo_County, yFloyd_CountyMitchell_County, yFranklin_CountyCerro_Gordo_County, yFranklin_CountyHardin_County, yFranklin_CountyWright_County, yFremont_CountyMills_County, yFremont_CountyPage_County, yGreene_CountyCalhoun_County, yGreene_CountyWebster_County, yGrundy_CountyHardin_County, yGrundy_CountyMarshall_County, yGuthrie_CountyAudubon_County, yGuthrie_CountyCarroll_County, yGuthrie_CountyDallas_County, yGuthrie_CountyGreene_County, yHamilton_CountyHardin_County, yHamilton_CountyStory_County, yHamilton_CountyWebster_County, yHamilton_CountyWright_County, yHancock_CountyKossuth_County, yHancock_CountyWinnebago_County, yHancock_CountyWright_County, yHardin_CountyMarshall_County, yHarrison_CountyMonona_County, yHenry_CountyJefferson_County, yHenry_CountyLee_County, yHenry_CountyLouisa_County, yHenry_CountyWashington_County, yIda_CountyWoodbury_County, yIowa_CountyJohnson_County, yIowa_CountyKeokuk_County, yIowa_CountyPoweshiek_County, yIowa_CountyWashington_County, yJasper_CountyMahaska_County, yJasper_CountyMarion_County, yJefferson_CountyKeokuk_County, yJefferson_CountyWashington_County, yJohnson_CountyLouisa_County, yJohnson_CountyMuscatine_County, yJohnson_CountyWashington_County, yJones_CountyDubuque_County, yJones_CountyJackson_County, yKeokuk_CountyMahaska_County, yKeokuk_CountyPoweshiek_County, yKossuth_CountyHumboldt_County, yKossuth_CountyWinnebago_County, yLinn_CountyCedar_County, yLinn_CountyDelaware_County, yLinn_CountyJohnson_County, yLinn_CountyJones_County, yLouisa_CountyWashington_County, yLucas_CountyMarion_County, yLucas_CountyWarren_County, yLyon_CountySioux_County, yMadison_CountyClarke_County, yMadison_CountyDallas_County, yMadison_CountyUnion_County, yMadison_CountyWarren_County, yMahaska_CountyMarion_County, yMarshall_CountyJasper_County, yMitchell_CountyHoward_County, yMitchell_CountyWorth_County, yMonroe_CountyLucas_County, yMonroe_CountyMahaska_County, yMonroe_CountyMarion_County, yMonroe_CountyWapello_County, yMontgomery_CountyMills_County, yMontgomery_CountyPage_County, yMontgomery_CountyPottawattamie_County, yMuscatine_CountyLouisa_County, yMuscatine_CountyScott_County, yO'Brien_CountyOsceola_County, yO'Brien_CountySioux_County, yOsceola_CountyLyon_County, yPalo_Alto_CountyEmmet_County, yPalo_Alto_CountyKossuth_County, yPlymouth_CountySioux_County, yPlymouth_CountyWoodbury_County, yPocahontas_CountyCalhoun_County, yPocahontas_CountyHumboldt_County, yPocahontas_CountyPalo_Alto_County, yPolk_CountyJasper_County, yPolk_CountyMarion_County, yPolk_CountyStory_County, yPolk_CountyWarren_County, yPottawattamie_CountyHarrison_County, yPottawattamie_CountyMills_County, yPoweshiek_CountyJasper_County, yPoweshiek_CountyMahaska_County, ySac_CountyCalhoun_County, ySac_CountyCrawford_County, ySac_CountyIda_County, yShelby_CountyCrawford_County, yShelby_CountyHarrison_County, yShelby_CountyPottawattamie_County, yStory_CountyHardin_County, yStory_CountyJasper_County, yStory_CountyMarshall_County, yTama_CountyGrundy_County, yTama_CountyMarshall_County, yTama_CountyPoweshiek_County, yTaylor_CountyPage_County, yTaylor_CountyRinggold_County, yUnion_CountyClarke_County, yUnion_CountyRinggold_County, yVan_Buren_CountyHenry_County, yVan_Buren_CountyJefferson_County, yVan_Buren_CountyLee_County, yWapello_CountyJefferson_County, yWapello_CountyKeokuk_County, yWapello_CountyMahaska_County, yWarren_CountyMarion_County, yWashington_CountyKeokuk_County, yWayne_CountyDecatur_County, yWayne_CountyLucas_County, yWebster_CountyCalhoun_County, yWebster_CountyHumboldt_County, yWebster_CountyPocahontas_County, yWebster_CountyWright_County, yWinneshiek_CountyChickasaw_County, yWinneshiek_CountyFayette_County, yWinneshiek_CountyHoward_County, yWoodbury_CountyMonona_County, yWorth_CountyWinnebago_County, yWright_CountyHumboldt_County, zAdair_County0, zAdair_County1, zAdams_County0, zAdams_County1, zAllamakee_County0, zAllamakee_County1, zAppanoose_County0, zAppanoose_County1, zAudubon_County0, zAudubon_County1, zBenton_County0, zBenton_County1, zBlack_Hawk_County0, zBlack_Hawk_County1, zBoone_County0, zBoone_County1, zBremer_County0, zBremer_County1, zBuchanan_County0, zBuchanan_County1, zBuena_Vista_County0, zBuena_Vista_County1, zButler_County0, zButler_County1, zCalhoun_County0, zCalhoun_County1, zCarroll_County0, zCarroll_County1, zCass_County0, zCass_County1, zCedar_County0, zCedar_County1, zCerro_Gordo_County0, zCerro_Gordo_County1, zCherokee_County0, zCherokee_County1, zChickasaw_County0, zChickasaw_County1, zClarke_County0, zClarke_County1, zClay_County0, zClay_County1, zClayton_County0, zClayton_County1, zClinton_County0, zClinton_County1, zCrawford_County0, zCrawford_County1, zDallas_County0, zDallas_County1, zDavis_County0, zDavis_County1, zDecatur_County0, zDecatur_County1, zDelaware_County0, zDelaware_County1, zDes_Moines_County0, zDes_Moines_County1, zDickinson_County0, zDickinson_County1, zDubuque_County0, zDubuque_County1, zEmmet_County0, zEmmet_County1, zFayette_County0, zFayette_County1, zFloyd_County0, zFloyd_County1, zFranklin_County0, zFranklin_County1, zFremont_County0, zFremont_County1, zGreene_County0, zGreene_County1, zGrundy_County0, zGrundy_County1, zGuthrie_County0, zGuthrie_County1, zHamilton_County0, zHamilton_County1, zHancock_County0, zHancock_County1, zHardin_County0, zHardin_County1, zHarrison_County0, zHarrison_County1, zHenry_County0, zHenry_County1, zHoward_County0, zHoward_County1, zHumboldt_County0, zHumboldt_County1, zIda_County0, zIda_County1, zIowa_County0, zIowa_County1, zJackson_County0, zJackson_County1, zJasper_County0, zJasper_County1, zJefferson_County0, zJefferson_County1, zJohnson_County0, zJohnson_County1, zJones_County0, zJones_County1, zKeokuk_County0, zKeokuk_County1, zKossuth_County0, zKossuth_County1, zLee_County0, zLee_County1, zLinn_County0, zLinn_County1, zLouisa_County0, zLouisa_County1, zLucas_County0, zLucas_County1, zLyon_County0, zLyon_County1, zMadison_County0, zMadison_County1, zMahaska_County0, zMahaska_County1, zMarion_County0, zMarion_County1, zMarshall_County0, zMarshall_County1, zMills_County0, zMills_County1, zMitchell_County0, zMitchell_County1, zMonona_County0, zMonona_County1, zMonroe_County0, zMonroe_County1, zMontgomery_County0, zMontgomery_County1, zMuscatine_County0, zMuscatine_County1, zO'Brien_County0, zO'Brien_County1, zOsceola_County0, zOsceola_County1, zPage_County0, zPage_County1, zPalo_Alto_County0, zPalo_Alto_County1, zPlymouth_County0, zPlymouth_County1, zPocahontas_County0, zPocahontas_County1, zPolk_County0, zPolk_County1, zPottawattamie_County0, zPottawattamie_County1, zPoweshiek_County0, zPoweshiek_County1, zRinggold_County0, zRinggold_County1, zSac_County0, zSac_County1, zScott_County0, zScott_County1, zShelby_County0, zShelby_County1, zSioux_County0, zSioux_County1, zStory_County0, zStory_County1, zTama_County0, zTama_County1, zTaylor_County0, zTaylor_County1, zUnion_County0, zUnion_County1, zVan_Buren_County0, zVan_Buren_County1, zWapello_County0, zWapello_County1, zWarren_County0, zWarren_County1, zWashington_County0, zWashington_County1, zWayne_County0, zWayne_County1, zWebster_County0, zWebster_County1, zWinnebago_County0, zWinnebago_County1, zWinneshiek_County0, zWinneshiek_County1, zWoodbury_County0, zWoodbury_County1, zWorth_County0, zWorth_County1, zWright_County0, zWright_County1]
+[xAdair_County, xAdams_County, xCass_County, xGuthrie_County, xMadison_County, xUnion_County, xMontgomery_County, xTaylor_County, xAllamakee_County, xClayton_County, xWinneshiek_County, xAppanoose_County, xDavis_County, xMonroe_County, xWayne_County, xAudubon_County, xCarroll_County, xShelby_County, xBenton_County, xBlack_Hawk_County, xBuchanan_County, xIowa_County, xLinn_County, xTama_County, xBremer_County, xButler_County, xGrundy_County, xBoone_County, xDallas_County, xGreene_County, xHamilton_County, xPolk_County, xStory_County, xWebster_County, xChickasaw_County, xFayette_County, xDelaware_County, xBuena_Vista_County, xCherokee_County, xClay_County, xPocahontas_County, xSac_County, xFloyd_County, xFranklin_County, xCalhoun_County, xCrawford_County, xPottawattamie_County, xCedar_County, xClinton_County, xJohnson_County, xJones_County, xMuscatine_County, xScott_County, xCerro_Gordo_County, xHancock_County, xMitchell_County, xWorth_County, xIda_County, xO'Brien_County, xPlymouth_County, xWoodbury_County, xHoward_County, xClarke_County, xDecatur_County, xLucas_County, xWarren_County, xDickinson_County, xPalo_Alto_County, xDubuque_County, xJackson_County, xHarrison_County, xMonona_County, xVan_Buren_County, xWapello_County, xRinggold_County, xDes_Moines_County, xHenry_County, xLee_County, xLouisa_County, xEmmet_County, xOsceola_County, xKossuth_County, xHardin_County, xWright_County, xFremont_County, xMills_County, xPage_County, xMarshall_County, xWinnebago_County, xJefferson_County, xWashington_County, xHumboldt_County, xKeokuk_County, xPoweshiek_County, xJasper_County, xMahaska_County, xMarion_County, xLyon_County, xSioux_County]
+xMontgomery_County 1.0
+xAppanoose_County 1.0
+xWayne_County 1.0
+xCarroll_County 1.0
+xBlack_Hawk_County 1.0
+xBremer_County 1.0
+xButler_County 1.0
+xGrundy_County 1.0
+xHamilton_County 1.0
+xMuscatine_County 1.0
+xMitchell_County 1.0
+xWorth_County 1.0
+xClarke_County 1.0
+xDecatur_County 1.0
+xLucas_County 1.0
+xWarren_County 1.0
+xDubuque_County 1.0
+xJackson_County 1.0
+xVan_Buren_County 1.0
+xDes_Moines_County 1.0
+xHenry_County 1.0
+xLee_County 1.0
+xLouisa_County 1.0
+xKossuth_County 1.0
+xHardin_County 1.0
+xWright_County 1.0
+xFremont_County 1.0
+xPage_County 1.0
+xMarshall_County 1.0
+xJasper_County 1.0
+xMahaska_County 1.0
+xMarion_County 1.0
